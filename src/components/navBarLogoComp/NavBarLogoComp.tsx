@@ -6,6 +6,7 @@ const LogoComp = () => {
     <div className={styles.container}>
       <h4 className={styles.brand}>
         Gestión Residencial Integral
+        {/* Gestión Inmuebles */}
       </h4>
     </div>
   )
