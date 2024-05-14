@@ -5,18 +5,20 @@
     box-sizing: border-box;
     list-style: none;
     @include g.create-flexbox(column, space-between);
-    width: 90%;
+    width: 70%;
     top: calc(g.$mobile-NavBar-height - 16px + 3vh);
     right: -100%;
     transition: right .2s ease;
     z-index: 200;
     border: 2px solid g.$white-color;
     background-color: rgba(255,255,255,.85);
-    border-radius: 10px;
+    // border-radius: 10px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
     box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.5);
     height: calc(100vh - (g.$mobile-NavBar-height) - 10vh);
     font-weight: 600;
-    padding: 2vh 1px;
+    padding: 10vh 1px;
     @include g.display-large{
         background-color: transparent;
         border: none;
@@ -38,9 +40,9 @@
         box-sizing: border-box;
         display: inline-block;
         text-decoration: none;
-        text-align: center;
+        text-align: right;
         position: relative;
-        width: 70vw;
+        width: 40vw;
         height: 8vh;
         line-height: 8vh;
         border-radius: 2vw;
@@ -176,6 +178,6 @@
     }
 }
 .show{// ul
-    right: 5%;
+    right: 0;
     transition: right .3s ease;
 }

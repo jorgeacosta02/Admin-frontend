@@ -3,21 +3,13 @@
 .container{
     // background-color: red;
     height: calc(g.$mobile-NavBar-height * .6);
-    .triarLogo{
-        margin-right: 1vw;
-        height: calc(g.$mobile-NavBar-height * .6);
-        // background-color: blue;
-        @include g.display-large{
-            width: auto;
-            height: 50px;
-        }
-    }
-    .ADLLogo{
-        margin-right: 1vw;
-        height: calc(g.$mobile-NavBar-height * .6);
-        @include g.display-large{
-            width: auto;
-            height: 50px;
-        }  
+    // background-color: red;
+    @include g.create-flexbox(row, center);
+    .brand{
+        padding: 15px 30px;
+        border-radius: 5px;
+        color: g.$main-dark-color;
+        font-family: serif;
+        background-color: rgba(255, 255, 255, 0.709);
     }
 }

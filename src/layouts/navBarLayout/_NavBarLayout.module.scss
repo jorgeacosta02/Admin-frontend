@@ -7,7 +7,7 @@
     width: 100vw;
     height: max(#{g.$mobile-NavBar-height}, #{25px});
     top: 0;
-    left: 0;
+    right: 0;
     padding: 0 2vw;
     margin: 0;
     @include g.create-flexbox(row, space-between);
