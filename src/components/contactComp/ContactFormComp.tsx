@@ -110,7 +110,7 @@ const ContactFormComp: React.FC = () => {
   return (
     <div className={styles.container}>
       <form onSubmit={handleSubmit}>
-        <h2>Envianos un mensaje</h2>
+        <h2>Enviar un mensaje</h2>
         <div>
           <div className={styles.inputBlock}>
             <label htmlFor='name'>Nombre:  </label>

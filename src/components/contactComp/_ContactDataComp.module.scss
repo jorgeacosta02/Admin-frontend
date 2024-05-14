@@ -26,8 +26,8 @@
         @include g.create-flexbox(row, space-between);
     }
     path {
-        fill: g.$red-color;
-        stroke: g.$red-color;
+        fill: g.$main-color;
+        stroke: g.$main-color;
         stroke-width: 1px;
     }
 }
