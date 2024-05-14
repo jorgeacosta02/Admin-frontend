@@ -1,0 +1,18 @@
+@use '../../styles/globals' as g;
+
+.container{
+    padding: g.$mobile-main-container-padding;
+    @include g.create-flexbox(column, space-between);
+    align-items: flex-start;
+    .calendar{
+        width: 500px;
+        ._container_dlnkc_3{
+            .rbc-calendar{
+                background-color: red;
+            }
+        }
+        .rbc-off-range-bg{
+            background-color: red !important;
+        }
+    }
+}
