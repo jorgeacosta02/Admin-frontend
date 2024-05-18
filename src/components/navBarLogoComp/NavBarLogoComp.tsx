@@ -4,10 +4,19 @@ import styles from './_NavBarLogoComp.module.scss';
 const LogoComp = () => {
   return (
     <div className={styles.container}>
-      <h4 className={styles.brand}>
-        Gestión Residencial Integral
-        {/* Gestión Inmuebles */}
+      <h4 className={styles.name}>
+        Jorge Acosta de León
       </h4>
+      {/* <h4 className={styles.name}>
+        Gestión Residencial */}
+        {/* Integral */}
+      {/* </h4> */}
+      <p className={styles.brand}>
+        Administración Residencial
+      </p>
+      {/* <h5 className={styles.brand}>
+        Jorge Acosta de León
+      </h5> */}
     </div>
   )
 }

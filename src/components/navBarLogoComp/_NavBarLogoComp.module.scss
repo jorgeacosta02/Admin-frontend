@@ -1,21 +1,34 @@
 @use "../../styles/globals" as g;
 
 .container{
+    box-sizing: bor;
     // background-color: red;
-    height: calc(g.$mobile-NavBar-height * .6);
+    // height: calc(g.$mobile-NavBar-height * .6);
+    background-color: rgba(255, 255, 255, 0.709);
     // background-color: red;
-    @include g.create-flexbox(row, center);
-    .brand{
-        padding: 2vw 4vw;
-        border-radius: 2px;
-        max-width: 300px;
-        color: g.$main-color;
-        font-family: serif;
-        background-color: rgba(255, 255, 255, 0.709);
+    padding: 5px 10px;
+    border-radius: 3px;
+    max-width: 300px;
+    color: g.$main-color;
+    font-family: serif;
+    @include g.create-flexbox(column, center);
+    .name{
         font-size: min(#{g.$mobile-h4-font-size}, #{5vw});
         @include g.display-large{
-            padding: 15px 30px;
+            // padding: 15px 30px;
             font-size: g.$desk-h4-font-size;
+        }
+    }
+    .brand{
+        // padding: 2vw 4vw;
+        // border-radius: 2px;
+        // // max-width: 300px;
+        // color: g.$main-color;
+        font-family: serif;
+        // font-size: min(#{g.$mobile-h4-font-size}, #{5vw});
+        @include g.display-large{
+            // padding: 15px 30px;
+            // font-size: g.$desk-h4-font-size;
         }
     }
 }
