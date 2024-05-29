@@ -12,7 +12,7 @@ const LogoComp = () => {
         {/* Integral */}
       {/* </h4> */}
       <p className={styles.brand}>
-        Administración Residencial
+        Administración de Consorcios
       </p>
       {/* <h5 className={styles.brand}>
         Jorge Acosta de León

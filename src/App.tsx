@@ -9,7 +9,6 @@ import AddTaskPage from './pages/taskPages/AddTaskPage';
 import TaskByIdPage from './pages/taskPages/TaskByIdPage';
 import UserProfilePage from './pages/userProfilePage/UserProfilePage';
 import HomePage from './pages/homePage/HomePage';
-import CalendarPage from './pages/calendarPage/CalendarPage';
 import WorkerRegisterPage from './pages/workerRegisterPage/WorkerRegisterPage';
 import WorkerLoginPage from './pages/workerLoginPage/WorkerLoginPage';
 import WorkerProfilePage from './pages/workerProfilePage/WorkerProfilePage';
@@ -26,7 +25,6 @@ const App = () => {
 
         {/*Free Routes*/}
         <Route path="/" element={<HomePage />} />
-        <Route path="/appointment" element={<CalendarPage />} />
         <Route path='/user-register' element={<UserRegisterPage/>}/>
         <Route path='/user-login' element={<LoginPage/>}/>
         <Route path="/contact" element={<ContactPage />} />
