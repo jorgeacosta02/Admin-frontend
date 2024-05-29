@@ -4,9 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import ContactPage from './pages/contactPage/ContactPage';
 import UserRegisterPage from './pages/userRegisterPage/UserRegisterPage';
 import LoginPage from './pages/userLoginPage/UserLoginPage';
-import TasksPage from './pages/taskPages/TasksPage';
 import AddTaskPage from './pages/taskPages/AddTaskPage';
-import TaskByIdPage from './pages/taskPages/TaskByIdPage';
 import UserProfilePage from './pages/userProfilePage/UserProfilePage';
 import HomePage from './pages/homePage/HomePage';
 import WorkerRegisterPage from './pages/workerRegisterPage/WorkerRegisterPage';
@@ -33,8 +31,6 @@ const App = () => {
 
         {/* User Protected Routes*/}
        <Route element={<UserRoutesComp/>}>
-        <Route path='/tasks' element={<TasksPage/>}/>
-        <Route path='/task/:id' element={<TaskByIdPage/>}/>
         <Route path='/user-profile' element={<UserProfilePage/>}/>
        </Route>
 
@@ -46,6 +42,7 @@ const App = () => {
        {/* Admin Protected Routes */}
        <Route element={<AdminRoutesComp/>}>
         <Route path='/add-task' element={<AddTaskPage/>}/>
+        <Route path='/intranet' element={<AddTaskPage/>}/>
        </Route>
       </Routes>
     </div>

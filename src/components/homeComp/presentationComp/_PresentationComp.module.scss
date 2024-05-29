@@ -1,0 +1,37 @@
+@use '../../../styles/globals' as g;
+
+.container{
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 100;
+    top:g.$desk-NavBar-height;
+    padding: 30px;
+    @include g.create-flexbox(column, flex-start);
+    align-items: flex-start;
+    gap: 25px;
+    .gestion{
+        background-color: rgba(128, 128, 128, 0.786);
+        padding: 30px;
+        width: 400px;
+    }
+    .description{
+        background-color: g.$main-color;
+        color: white;
+        padding: 30px;
+        width: 600px;
+        margin-left: 80px;
+        font-size: calc(g.$desk-p-font-size * 1.1);
+        font-weight: calc(g.$desk-p-font-weight * 1.1);
+    }
+    .atencion{
+        background-color: g.$main-color;
+        color: white;
+        padding: 30px;
+        width: 600px;
+        margin-left: 80px;
+        border-radius: 10px;
+        right: 0;
+        font-size: calc(g.$desk-p-font-size * 1.1);
+        font-weight: calc(g.$desk-p-font-weight * 1.1);
+    }
+}
