@@ -1,24 +1,29 @@
 import styles from './_NavBarLogoComp.module.scss';
-// import TriarLogo from '../../assets/Images/Logos&Brands/logo fondo transparente.png'
+import { useState } from 'react';
+import brand from '../../assets/images/logos&Brands/Multikajas-brand.png'
 
-const LogoComp = () => {
-  return (
-    <div className={styles.container}>
-      <h4 className={styles.name}>
-        Jorge Acosta de León
-      </h4>
-      {/* <h4 className={styles.name}>
-        Gestión Residencial */}
-        {/* Integral */}
-      {/* </h4> */}
-      <p className={styles.brand}>
-        Administración de Consorcios
-      </p>
-      {/* <h5 className={styles.brand}>
-        Jorge Acosta de León
-      </h5> */}
-    </div>
-  )
+
+const NavBarLogoComp = () => {
+
+    const [animationComplete, setAnimationComplete] = useState(false);
+
+    const onAnimationEnd = () => {
+        setAnimationComplete(true);
+    };
+
+
+
+    return (
+        <div className={styles.container}>
+            <img
+                src={brand}
+                alt="brand"
+                className={`${styles.logo} ${animationComplete && styles.animationComplete}`} 
+                onAnimationEnd={onAnimationEnd}>
+            
+            </img>
+        </div>
+    );
 }
 
-export default LogoComp
+export default NavBarLogoComp;

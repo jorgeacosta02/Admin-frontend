@@ -7,11 +7,24 @@
 // General variables
 
 // Colors
-// $main-color: rgb(0, 5, 255);
-$main-color: rgb(0, 81, 255);
-$main-dark-color: rgb(0, 3, 172);
-$main-light-color: rgb(0, 102, 255);
-$main-light2-color: rgb(75, 147, 254);
+
+
+
+// Orange
+// $main-color: rgb(219, 113, 0);
+// $main-dark-color: rgb(168, 81, 0);
+
+// Red
+$main-color: rgb(194, 0, 0);
+$main-dark-color: rgb(102, 0, 0);
+
+// Blue
+// $main-color: rgb(0, 68, 255);
+// $main-dark-color: rgb(14, 55, 169);
+
+
+$main-light-color: rgb(90, 234, 71);
+$main-light2-color: rgb(189, 221, 162);
 $main-light3-color: rgb(215, 225, 210);
 $white-color: white;
 $dark-black-color: black;
@@ -20,7 +33,7 @@ $grey-color: grey;
 $red-color: red;
 
 // Fonts
-$primary-font: 'Roboto', sans-serif;
+$primary-font: 'Roboto';
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -80,4 +93,14 @@ $desk-p-font-weight: 300;
     flex-direction: $direction;
     justify-content: $justify;
     align-items: center;
+}
+
+
+@mixin fadeIn($duration) {
+    animation: fadeIn $duration forwards;
+  
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
 }

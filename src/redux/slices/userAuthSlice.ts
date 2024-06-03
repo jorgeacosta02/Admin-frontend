@@ -1,11 +1,11 @@
 // userSlice.ts
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { loginUser } from '../actions/actions';
-import { IUserData, ApiResponse } from '../../Interfaces/UserInterfaces';
+import { loginUser } from '../actions/loginUserActions';
+import { IUserData, ApiResponse } from '../../interfaces/userInterfaces';
 
 
 interface UserState {
-    data: IUserData | null | string;
+    data: IUserData | null;
     loading: boolean;
     error: string | null;
 }
@@ -26,11 +26,13 @@ const userSlice = createSlice({
     },
     extraReducers: (builder) => {
         builder
-        .addCase(loginUser.pending, (state) => {
+        .addCase(
+          loginUser.pending, (state) => {
           state.loading = true;
           state.error = null;
         })
-        .addCase(loginUser.fulfilled, (state, action: PayloadAction<ApiResponse>) => {
+        .addCase(
+          loginUser.fulfilled, (state, action: PayloadAction<ApiResponse>) => {
           state.loading = false;
           console.log('action.payload.user :', action.payload.user);
           state.data = action.payload.user;
@@ -55,37 +57,3 @@ export const { cleanUser } = userSlice.actions;
 export default userSlice.reducer;
 
 export const selectUserAuth = (state:any) => state.userAuth;
-
-
-
-
-
-
-// import { createSlice } from "@reduxjs/toolkit";
-
-
-// const initialState = {
-//     firstName: '',
-//     lastName: '',
-//     dni: 0,
-//     healthPlan: '',
-//     phone: 0,
-//     email: '',
-//     password: '',
-//     status: false,
-//     role: '',
-// }
-
-// export const userAuthSlice = createSlice({
-//     name: 'userAuth',
-//     initialState,
-//     reducers: {
-
-//     }
-// })
-
-// export const {  } = userAuthSlice.actions;
-
-// export const userAuthState = (state:any) => state.userAuth;
-
-// export default userAuthSlice.reducer;
