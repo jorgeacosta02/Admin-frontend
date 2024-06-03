@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
       <BrowserRouter>
         <DndProvider backend={HTML5Backend}>
           <App />
-          </DndProvider>
+        </DndProvider>
       </BrowserRouter>
     </Provider>
   </React.StrictMode>,

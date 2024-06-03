@@ -4,18 +4,20 @@ import { useSelector } from 'react-redux';
 import { selectMoonState } from '../../redux/slices/moonSlice';
 
 // Importa tus imágenes
-import img01 from '../../assets/images/slider/gifCar01.webp';
-import img02 from '../../assets/images/slider/motor01.jpg';
-import img03 from '../../assets/images/slider/embrague01.jpg';
-import img04 from '../../assets/images/slider/wrc-rally.gif';
-import img05 from '../../assets/images/slider/gifCar04.webp';
-import img06 from '../../assets/images/slider/cajaCambios02.jpg';
-import img07 from '../../assets/images/slider/embrague02.jpg';
-import img08 from '../../assets/images/slider/motor02.jpg';
-import img09 from '../../assets/images/slider/gifCar02.webp';
-import img10 from '../../assets/images/slider/motor03.jpg';
-import img11 from '../../assets/images/slider/amortiguador021.jpg';
-import img12 from '../../assets/images/slider/gifCar03.webp';
+import img01 from '../../assets/images/slider/01.jpg';
+import img02 from '../../assets/images/slider/11.jpg';
+import img03 from '../../assets/images/slider/02.jpg';
+import img04 from '../../assets/images/slider/12.jpg';
+import img05 from '../../assets/images/slider/03.jpg';
+import img06 from '../../assets/images/slider/13.jpg';
+import img07 from '../../assets/images/slider/04.jpg';
+import img08 from '../../assets/images/slider/14.jpg';
+import img09 from '../../assets/images/slider/05.jpg';
+import img10 from '../../assets/images/slider/15.jpg';
+import img11 from '../../assets/images/slider/06.jpg';
+import img12 from '../../assets/images/slider/16.jpg';
+
+
 
 
 const SliderComp = () => {
@@ -30,7 +32,7 @@ const SliderComp = () => {
     useEffect(() => {
       const interval = setInterval(() => {
         setCurrentSlide((prevSlide) => (prevSlide + 1) % 12);
-      }, 2000); // Cambia a la siguiente imagen cada 3 segundos
+      }, 7000); // Cambia a la siguiente imagen cada 3 segundos
   
       return () => clearInterval(interval);
     }, []); // Se ejecuta solo una vez al montar el componente
