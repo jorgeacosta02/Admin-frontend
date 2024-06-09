@@ -30,7 +30,7 @@ const HomeComp = () => {
             <h5
               className={styles.role}
             >
-              {/* {langState === 'es' ? 'Programador Web Full Stack' : 'Full Stack Web Developer'} */}
+              Soy Jorge, administrador de consorcios con compromiso por ofrecer un servicio cercano, eficiente y transparente. Entiendo que la administración de un consorcio requiere una atención meticulosa y un enfoque personalizado, y estoy aquí para asegurarme de que cada detalle sea manejado con profesionalismo y dedicación.
             </h5>
             <p
               className={styles.text}

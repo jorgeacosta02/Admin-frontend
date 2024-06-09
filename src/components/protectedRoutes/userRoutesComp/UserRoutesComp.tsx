@@ -8,7 +8,7 @@ const UserRoutesComp = () => {
 
   console.log('accessLogin en UserRoutesComp: ',accessLogin)
 
-  if ( accessLogin?.user?.active && accessLogin?.user?.role === 'user' ) {
+  if ( accessLogin?.user?.active && (accessLogin?.user?.role === 'user' || accessLogin?.user?.role === 'admin') ) {
     console.log('dentro del if')
     return <Outlet/>;
   }
