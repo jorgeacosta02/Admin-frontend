@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 // import axios from 'axios'
 import { selectUserAuth } from '../../redux/slices/userAuthSlice';
 import { loginUser } from '../../redux/actions/loginUserActions';
-// import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import { toggleMessage } from '../../redux/slices/messageSlice';
 
@@ -14,7 +14,7 @@ const UserLoginComp = () => {
 
     const userAuth = useSelector(selectUserAuth);
     const dispatch = useDispatch();
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
 
     // Estado de datos del formulario
     const [formData, setFormData] = useState<IUserLoginData>({
@@ -98,6 +98,8 @@ const UserLoginComp = () => {
             dni: '',
             password: '',
             })
+
+            navigate('/')
 
             messageHandleClick()
 

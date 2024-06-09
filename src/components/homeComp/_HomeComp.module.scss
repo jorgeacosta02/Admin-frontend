@@ -52,7 +52,11 @@
                 }
             }
             .role{
+                box-sizing: border-box;
                 width: 100%;
+                padding: 20px 40px;
+                background-color: rgba(0,0,0, 0.5);
+                border-radius: 3px;
                 text-align: center;
                 @include g.display-large{
                     text-align: left;
