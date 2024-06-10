@@ -13,6 +13,7 @@
     margin: 0;
     @include g.create-flexbox(row, space-between);
     z-index: 1000;
+    transition: 400ms;
     // background-color: blue;
     @include g.display-large{
         width: 100%;
@@ -22,7 +23,6 @@
 }
 .backgDark {
     background-color: g.$dark-black-color;
+    transition: 400ms;
 }
-.backgLight{
-    background-color: g.$white-color;
-}
+

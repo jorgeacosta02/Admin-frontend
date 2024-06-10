@@ -9,7 +9,7 @@
     border-radius: 3px;
     color: g.$main-color;
     @include g.create-flexbox(column,center);
-    height: 100%;
+    height: 90%;
     @include g.display-large{
         max-width: 300px;
         width: 40%;
