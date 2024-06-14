@@ -39,25 +39,14 @@
                 align-items: flex-start;
                 width: 80%;
             }
-            .hi{
-                width: 100%;
-                text-align: left;
-            }
-            .name{
-                width: 100%;
-                text-align: center;
-                color: g.$main-color;
-                @include g.display-large{
-                    text-align: left;
-                }
-            }
             .role{
                 box-sizing: border-box;
+                margin-top: 12vh;
                 width: 100%;
                 padding: 20px 40px;
-                background-color: rgba(0,0,0, 0.5);
+                // background-color: rgba(0,0,0, 0.5);
                 border-radius: 3px;
-                text-align: center;
+                text-align: left;
                 @include g.display-large{
                     text-align: left;
                 }

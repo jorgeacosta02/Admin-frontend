@@ -81,16 +81,16 @@ const NavBarNavListComp = () => {
           {langState === 'es' ? 'Tecnologías' : 'Skills'}
         </NavLink>
       </li> */}
-      {/* <li 
+      <li 
       className={styles.li}
       onClick={handleClick} >
         <NavLink
-          to="/background" 
+          to="/clients" 
           className={navLinkColor} 
         >
-          {langState === 'es' ? 'Formación' : 'Background'}
+          Consorcios
         </NavLink>
-      </li> */}
+      </li>
       <li 
       className={styles.li}
       onClick={handleClick} >

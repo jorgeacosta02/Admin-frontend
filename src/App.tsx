@@ -12,13 +12,12 @@ function App() {
     <div>
       <Routes>
         <Route path='/' element={<HomePage/>}/>
-        <Route path="/contact" element={<ContactPage/>}/>
+        <Route path='/contact' element={<ContactPage/>}/>
         <Route element={<UserRoutesComp/>}>
-          <Route path='/intranet' element={<IntranetPage/>} />
-          {/* <Route path='/article-up-form' element={</>} /> */}
+          <Route path='/intranet' element={<IntranetPage/>}/>
+          <Route path='/article-up-form' element={<ArticleUpFormPage/>}/>
         </Route>
         <Route path='/login' element={<UserLoginPage/>}/>
-        <Route path="/article-up-form" element={<ArticleUpFormPage/>}/>
       </Routes>
     </div>
   )
