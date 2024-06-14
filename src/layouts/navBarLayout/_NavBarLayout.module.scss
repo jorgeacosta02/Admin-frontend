@@ -22,7 +22,8 @@
     }
 }
 .backgDark {
-    background-color: g.$dark-black-color;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
     transition: 400ms;
 }
 

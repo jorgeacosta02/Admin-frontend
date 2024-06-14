@@ -3,7 +3,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import { useState } from 'react';
 import axios from 'axios';
 import SliderComp from '../sliderComp/SliderComp';
-import LinksComp from '../linksComp/LinksComp';
 import MessageComp from '../messageComp/MessageComp';
 import { selectMoonState } from '../../redux/slices/moonSlice';
 import { selectMessageState, toggleMessage } from '../../redux/slices/messageSlice';
@@ -236,7 +235,6 @@ const ContactComp: React.FC = () => {
                 </p>
               </div>
             </div>
-            <LinksComp/>
           </div>
         </div>
         <div className={styles.formContainer}>
