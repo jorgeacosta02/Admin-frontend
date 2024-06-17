@@ -6,5 +6,49 @@
     padding: 10vh 10vw;
     z-index: 101;
     height: 100vh;
-    background-color: blue;
+    background-color: white;
+    .mainTitle{
+        margin-bottom: 20px;
+    }.dataContainer{
+        height: 50vh;
+        width: 50vw;
+        background-color: red;
+        box-sizing: border-box;
+        padding: 5vh 5vw;
+        border-radius: 10px;
+        overflow: hidden;
+        
+        .clientContainer{
+            text-decoration: none;
+            box-sizing: border-box;
+            width: 19%;
+            min-width: 120px;
+            height: 27%;
+            border-radius: 12px;
+            background-color: rgba(0,0,0,.8);
+            color: white;
+            text-align: center;
+            transition: 200ms ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            .clientLink{
+                height: 100%;
+                width: 100%;
+                background-color: grey;
+
+            }
+            .clientImg{
+                height: 30px;
+            }
+        }
+        .clientContainer:hover{
+            box-shadow: 20px 20px 20px rgba(0,0,0,1);
+            transform:scale(1.05);
+            transform-origin: center;
+            background-color: black;
+            cursor: pointer;
+        }
+    }
 }
