@@ -5,6 +5,7 @@ import UserRoutesComp from "./components/protectedRoutes/userRoutesComp/UserRout
 import IntranetPage from "./pages/intranetPage/IntranetPage"
 import ArticleUpFormPage from "./pages/articleUpFormPage/ArticleUpFormPage"
 import UserLoginPage from "./pages/userLoginPage/UserLoginPage"
+import ClientPage from "./pages/clientPage/ClientPage"
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path='/contact' element={<ContactPage/>}/>
         <Route element={<UserRoutesComp/>}>
           <Route path='/intranet' element={<IntranetPage/>}/>
+          <Route path='/client' element={<ClientPage/>}/>
           <Route path='/article-up-form' element={<ArticleUpFormPage/>}/>
         </Route>
         <Route path='/login' element={<UserLoginPage/>}/>
