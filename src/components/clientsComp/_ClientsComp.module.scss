@@ -1,0 +1,10 @@
+@use '../../styles/globals' as g;
+
+.mainContainer{
+    position: relative;
+    box-sizing: border-box;
+    padding: 10vh 10vw;
+    z-index: 101;
+    height: 100vh;
+    background-color: blue;
+}
