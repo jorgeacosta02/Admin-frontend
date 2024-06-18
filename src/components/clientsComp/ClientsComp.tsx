@@ -24,6 +24,21 @@ const ClientsComp = () => {
                 </p>
             </NavLink>
         </div>
+        <div className={styles.clientContainer}>
+            <NavLink
+             to='/elbosque'
+             className={styles.clientLink}
+            >
+                <img
+                    src={elbosque}
+                    alt="Imagen El Bosque"
+                    className={styles.clientImg}
+                />
+                <p className={styles.client}>
+                    Demo
+                </p>
+            </NavLink>
+        </div>
       </div>
     </div>
   )

@@ -81,7 +81,7 @@ const NavBarNavListComp = () => {
           {langState === 'es' ? 'Tecnologías' : 'Skills'}
         </NavLink>
       </li> */}
-      <li 
+      {/* <li 
       className={styles.li}
       onClick={handleClick} >
         <NavLink
@@ -90,7 +90,7 @@ const NavBarNavListComp = () => {
         >
           Consorcios
         </NavLink>
-      </li>
+      </li> */}
       <li 
       className={styles.li}
       onClick={handleClick} >

@@ -5,45 +5,45 @@
     box-sizing: border-box;
     padding: 5vh 5vw;
     z-index: 101;
-    height: 100vh;
+    min-height: 100vh;
     background-color: white;
     .mainTitle{
         margin-bottom: 20px;
     }.dataContainer{
-        height: 50vh;
         width: 100%;
         // background-color: red;
         box-sizing: border-box;
         padding: 2vh 2vw;
         border-radius: 10px;
-        overflow: hidden;
+        @include g.create-flexbox(row, space-evenly);
+        flex-wrap: wrap;
+        gap: 3vw;
         .clientContainer{
-            // text-decoration: none;
             box-sizing: border-box;
             width: 19%;
-            min-width: 110px;
+            width: 100px;
+            height: 140px;
             overflow: hidden;
-            padding: 1%;
+            padding: 8px 12px;
             border-radius: 5px;
             background-color: rgba(0,0,0,.8);
             color: white;
             text-align: center;
             transition: 200ms ease;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-start;
-            align-items: center;
+            @include g.create-flexbox(column, center);
             .clientLink{
+                box-sizing: border-box;
                 height: 100%;
                 width: 100%;
-                // background-color: grey;
+                // background-color: green;
                 text-decoration: none;
                 color: inherit;
-                font-size: calc(g.$mobile-p-font-size * .3);
+                font-size: 10px;
             }
             .clientImg{
-                width: 90%;
+                width: 100%;
                 border-radius: 2px;
+                margin-bottom: 5px;
             }
         }
         .clientContainer:hover{
