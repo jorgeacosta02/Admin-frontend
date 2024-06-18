@@ -19,9 +19,9 @@ const ClientsComp = () => {
                     alt="Imagen El Bosque"
                     className={styles.clientImg}
                 />
-                <h5 className={styles.client}>
+                <p className={styles.client}>
                     Complejo Residencial El Bosque
-                </h5>
+                </p>
             </NavLink>
         </div>
       </div>

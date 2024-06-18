@@ -3,7 +3,7 @@
 .mainContainer{
     position: relative;
     box-sizing: border-box;
-    padding: 10vh 10vw;
+    padding: 5vh 5vw;
     z-index: 101;
     height: 100vh;
     background-color: white;
@@ -11,20 +11,20 @@
         margin-bottom: 20px;
     }.dataContainer{
         height: 50vh;
-        width: 50vw;
-        background-color: red;
+        width: 100%;
+        // background-color: red;
         box-sizing: border-box;
-        padding: 5vh 5vw;
+        padding: 2vh 2vw;
         border-radius: 10px;
         overflow: hidden;
-        
         .clientContainer{
-            text-decoration: none;
+            // text-decoration: none;
             box-sizing: border-box;
             width: 19%;
-            min-width: 120px;
-            height: 27%;
-            border-radius: 12px;
+            min-width: 110px;
+            overflow: hidden;
+            padding: 1%;
+            border-radius: 5px;
             background-color: rgba(0,0,0,.8);
             color: white;
             text-align: center;
@@ -36,11 +36,14 @@
             .clientLink{
                 height: 100%;
                 width: 100%;
-                background-color: grey;
-
+                // background-color: grey;
+                text-decoration: none;
+                color: inherit;
+                font-size: calc(g.$mobile-p-font-size * .3);
             }
             .clientImg{
-                height: 30px;
+                width: 90%;
+                border-radius: 2px;
             }
         }
         .clientContainer:hover{
