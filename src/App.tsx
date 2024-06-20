@@ -5,7 +5,8 @@ import UserRoutesComp from "./components/protectedRoutes/userRoutesComp/UserRout
 import IntranetPage from "./pages/intranetPage/IntranetPage"
 import ArticleUpFormPage from "./pages/articleUpFormPage/ArticleUpFormPage"
 import UserLoginPage from "./pages/userLoginPage/UserLoginPage"
-import ClientPage from "./pages/clientPage/ClientPage"
+import ElBosquePage from "./pages/elBosquePage/ElBosquePage"
+import ElBosqueRoutesComp from "./components/protectedRoutes/elBosqueRoutesComp/ElBosqueRoutesComp"
 
 
 function App() {
@@ -14,12 +15,16 @@ function App() {
       <Routes>
         <Route path='/' element={<HomePage/>}/>
         <Route path='/contact' element={<ContactPage/>}/>
+        <Route path='/login' element={<UserLoginPage/>}/>
+        // Admin Routes
         <Route element={<UserRoutesComp/>}>
           <Route path='/intranet' element={<IntranetPage/>}/>
-          <Route path='/client' element={<ClientPage/>}/>
           <Route path='/article-up-form' element={<ArticleUpFormPage/>}/>
         </Route>
-        <Route path='/login' element={<UserLoginPage/>}/>
+        // El Bosque Routes
+        <Route element={<ElBosqueRoutesComp/>}>
+          <Route path='/elbosque' element={<ElBosquePage/>}/>
+        </Route>
       </Routes>
     </div>
   )
