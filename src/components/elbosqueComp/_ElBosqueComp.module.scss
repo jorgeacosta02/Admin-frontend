@@ -1,0 +1,9 @@
+@use '../../styles/globals' as g;
+
+.mainContainer{
+    // position: relative;
+    margin-top: g.$mobile-NavBar-height;
+    padding: g.$mobile-main-container-padding;
+    min-height: 100vh;
+    background-color: g.$main-color;
+}
