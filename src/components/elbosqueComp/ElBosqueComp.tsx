@@ -1,11 +1,24 @@
 import styles from './_ElBosqueComp.module.scss';
+import resumen from '../../assets/images/Expensas/ExpensasElBosque.jpg'
 
 const ElBosqueComp = () => {
   return (
     <div className={styles.mainContainer}>
-      <h2 className={styles.mainTitle}>
+      <h4 className={styles.mainTitle}>
         Complejo Residencial El Bosque
-      </h2>
+      </h4>
+      <div className={styles.infoContainer}>
+        <div className={styles.expensasContainer}>
+          <h6 className={styles.title}>
+            Estado de deuda de expensas
+          </h6>
+          <img 
+            src={resumen} 
+            alt="resume"
+            className={styles.resumen}
+          />
+        </div>
+      </div>
     </div>
   )
 }
