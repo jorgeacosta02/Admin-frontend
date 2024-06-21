@@ -7,6 +7,9 @@
     height: calc(100vh - g.$mobile-NavBar-height);
     // background-color: red;
     // @include g.create-flexbox(column, center);
+    @include g.display-large{
+        height: calc(100vh - g.$desk-NavBar-height);
+    }
     .dataContainer{
         box-sizing: border-box;
         position: relative;
@@ -19,18 +22,16 @@
         @include g.create-flexbox(column, center);
         gap: 3vw;
         @include g.display-large{
+            top: g.$desk-NavBar-height;
             width: 70%;
             align-items: center;
-            flex-direction: row;
-            padding: 5vh 0;
+            height: 50%;
             max-width: 900px;
-            top: 20vh;
         }
         // background-color: blue;
-        // z-index: 30;
         .role{
             box-sizing: border-box;
-            margin-top: 12vh;
+            // margin-top: 12vh;
             width: 100%;
             padding: 0px 10vw;
             // background-color: rgba(0,0,0, 0.5);
@@ -41,13 +42,6 @@
             }
         }
     }
-
-    }.clientsContainer{
-        position: relative;
-        z-index: 101;
-        height: 100%;
-    }
-
     .shape{
         display: none;
         @include g.display-large{
@@ -72,3 +66,4 @@
             }
         }
     }
+}
