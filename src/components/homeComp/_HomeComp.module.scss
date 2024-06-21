@@ -1,11 +1,13 @@
 @use '../../styles/globals' as g;
 
 .mainContainer{
+    position: relative;
     box-sizing: border-box;
-    width: 100%;
+    min-width: 100%;
     padding: 0;
-    height: calc(100vh - g.$mobile-NavBar-height);
-    // background-color: red;
+    min-height: calc(100vh - g.$mobile-NavBar-height);
+    border-radius: 50px;
+    color: black;
     // @include g.create-flexbox(column, center);
     @include g.display-large{
         height: calc(100vh - g.$desk-NavBar-height);
@@ -14,13 +16,13 @@
         box-sizing: border-box;
         position: relative;
         z-index: 101;
-        top: g.$mobile-NavBar-height;
+        top: calc(g.$mobile-NavBar-height + 5vh);
         width: 100%;
         padding: 0;
         color: g.$white-color;
         // background-color: blue;
         @include g.create-flexbox(column, center);
-        gap: 3vw;
+        gap: 5vh;
         @include g.display-large{
             top: g.$desk-NavBar-height;
             width: 70%;
@@ -30,6 +32,7 @@
         }
         // background-color: blue;
         .role{
+            color: white;
             box-sizing: border-box;
             // margin-top: 12vh;
             width: 100%;
@@ -42,28 +45,28 @@
             }
         }
     }
-    .shape{
-        display: none;
-        @include g.display-large{
-            position: absolute;
-            box-sizing: border-box;
-            z-index: 100;
-            background: linear-gradient(to right, rgb(4, 8, 46), g.$main-color); 
-            height: min(70vw, 70vh);
-            min-height: 100px;
-            max-height: 180px;
-            width: 22vw;
-            top: 37vh;
-            right: 0;
-            padding-left: calc(90px - 5vw);
-            color: white;
-            @include g.create-flexbox(column, center);
-            .firstName{
-                font-size: 27px;
-            }
-            .lastName{
-                font-size: 18px;
-            }
-        }
-    }
+    // .shape{
+    //     display: none;
+    //     @include g.display-large{
+    //         position: absolute;
+    //         box-sizing: border-box;
+    //         z-index: 100;
+    //         background: linear-gradient(to right, rgb(4, 8, 46), g.$main-color); 
+    //         height: min(70vw, 70vh);
+    //         min-height: 100px;
+    //         max-height: 180px;
+    //         width: 22vw;
+    //         top: 37vh;
+    //         right: 0;
+    //         padding-left: calc(90px - 5vw);
+    //         color: white;
+    //         @include g.create-flexbox(column, center);
+    //         .firstName{
+    //             font-size: 27px;
+    //         }
+    //         .lastName{
+    //             font-size: 18px;
+    //         }
+    //     }
+    // }
 }
