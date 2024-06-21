@@ -1,0 +1,26 @@
+@use '../../../styles/globals' as g;
+
+.mainContainer{
+    // position: relative;
+    padding: 5vh 5vw;
+    min-height: 100vh;
+    background-color: g.$main-color;
+    .mainTitle{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .resumen{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .link{
+        position: relative;
+        box-sizing: border-box;
+        text-decoration: none;
+        // background-color: red;
+        color: black;
+        border: 1px solid black;
+        border-radius: 3px;
+        padding: 10px 15px;
+    }
+}

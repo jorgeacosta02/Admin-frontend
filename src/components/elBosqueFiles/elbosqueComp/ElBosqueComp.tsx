@@ -1,5 +1,6 @@
 import styles from './_ElBosqueComp.module.scss';
-import resumen from '../../assets/images/Expensas/ExpensasElBosque.jpg'
+import resumen from '../../../assets/images/Expensas/ExpensasElBosque.jpg'
+import { NavLink } from 'react-router-dom';
 
 const ElBosqueComp = () => {
   return (
@@ -17,6 +18,14 @@ const ElBosqueComp = () => {
             alt="resume"
             className={styles.resumen}
           />
+        </div>
+        <div className={styles.linksContainer}>
+          <NavLink
+            to='/elbosquereglam'
+            className={styles.link}
+          >
+            Reglamento
+          </NavLink>
         </div>
       </div>
     </div>

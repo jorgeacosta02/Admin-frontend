@@ -1,11 +1,11 @@
-import ElBosqueComp from '../../components/elbosqueComp/ElBosqueComp'
+import ElBosqueComp from '../../components/elBosqueFiles/elbosqueComp/ElBosqueComp'
 import FooterComp from '../../components/footerComp/FooterComp'
-import NavBarLayout from '../../layouts/navBarLayout/NavBarLayout'
+// import NavBarLayout from '../../layouts/navBarLayout/NavBarLayout'
 
 const ElBosquePage = () => {
   return (
     <div>
-        <NavBarLayout/>
+        {/* <NavBarLayout/> */}
         <ElBosqueComp/>
         <FooterComp/>
     </div>
