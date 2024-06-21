@@ -10,107 +10,205 @@ const ElBosqueReglamComp = () => {
         “CONSORCIO RESIDENCIAL El BOSQUE”
         </h5>
         <p>
-            Por medio del presente, los propietarios del inmueble que se encuentra ubicado en calle Aguas Blancas 380 – entre calles Abraham Tapia y calle Vieja - del Departamento de Rawson, Provincia de San Juan, identificado con Nomenclatura Catastral de origen N° 04/12034/13 e inscripto ante el Registro de la Propiedad Inmobiliaria con matrícula 04-06695. Fecha 29/12/2000, en lo sucesivo denominado CONSORCIO Residencial "EL BOSQUE”-,  modifica el Reglamento pre-existente que regula los derechos y obligaciones en relación a la copropiedad de espacios comunes, los órganos de funcionamiento, limitaciones y restricciones a los derechos particulares, régimen disciplinario, obligación de contribuir con los gastos y cargas comunes,  y construcción del mencionado complejo residencial, todo ello de conformidad con la previsiones legales contenidas en el Código Civil y Comercial vigente.
+          Por medio del presente, los propietarios del inmueble que se encuentra ubicado en calle Aguas Blancas 380 – entre calles Abraham Tapia y calle Vieja - del Departamento de Rawson, Provincia de San Juan, identificado con Nomenclatura Catastral de origen N° 04/12034/13 e inscripto ante el Registro de la Propiedad Inmobiliaria con matrícula 04-06695. Fecha 29/12/2000, en lo sucesivo denominado CONSORCIO Residencial "EL BOSQUE”-,  modifica el Reglamento pre-existente que regula los derechos y obligaciones en relación a la copropiedad de espacios comunes, los órganos de funcionamiento, limitaciones y restricciones a los derechos particulares, régimen disciplinario, obligación de contribuir con los gastos y cargas comunes,  y construcción del mencionado complejo residencial, todo ello de conformidad con la previsiones legales contenidas en el Código Civil y Comercial vigente.
         </p>
         <h6>
-            CAPITULO PRIMERO
+          CAPITULO PRIMERO
         </h6>
         <p>
 
-            de la totalidad de las normas contenidas en el presente reglamento y en especial asumir la obligación de contribuir en el costo de todos los servicios y obras que el Consorcio resuelva ejecutar en beneficio del conjunto. Asumen la responsabilidad exclusiva por todas las consecuencias que se derivaren de la ejecución del proyecto de vivienda y/o demás obras 
-            accesorias a realizarse en su terreno, autorizando al Consorcio a cargarle a su costo todas aquellas erogaciones que éste se viere obligado a efectuar como consecuencia de acciones y/u omisiones que ocurrieren en el desarrollo de las obras. En las escrituras traslativas de dominio, DEL TÍTULO DE DOMINIO.
+          De la totalidad de las normas contenidas en el presente reglamento y en especial asumir la obligación de contribuir en el costo de todos los servicios y obras que el Consorcio resuelva ejecutar en beneficio del conjunto. Asumen la responsabilidad exclusiva por todas las consecuencias que se derivaren de la ejecución del proyecto de vivienda y/o demás obras 
+          accesorias a realizarse en su terreno, autorizando al Consorcio a cargarle a su costo todas aquellas erogaciones que éste se viere obligado a efectuar como consecuencia de acciones y/u omisiones que ocurrieren en el desarrollo de las obras. En las escrituras traslativas de dominio, DEL TÍTULO DE DOMINIO.
 
-            1. TÍTULO DE DOMINIO. El dominio de cada fracción está integrado por 1) El terreno o fracción adjudicada de propiedad exclusiva; 2) El porcentaje de condominio de indivisión forzosa sobre los espacios afectados a accesos y servicios comunes, de conformidad con el plano de mensura. Los dos elementos antes enunciados forman una unidad indivisible e inescindible, lo que queda debidamente establecido en las escrituras de adjudicación respectivas. CONDOMINIO DE INDIVISIÓN FORZOSA. Las calles, accesos y espacios comunes a las respectivas fracciones quedan afectados a un condominio de indivisión forzosa entre los titulares de las fracciones de propiedad exclusiva, correspondiéndole al titular de cada fracción una porción indivisa de dicho condominio, en el porcentaje que establece el plano de fraccionamiento ya citado. Los servicios serán prestados en su totalidad por cuenta y cargo de los propietarios de las fracciones, quienes a su vez son copropietarios de las calles, siendo responsables del cuidado y mantenimiento de las mismas. La Municipalidad de la Ciudad de Rawson no asume la prestación de ningún servicio dentro del predio. Sobre las calles internas, espacios verdes y espacios comunes en general, queda constituido un condominio de indivisión forzosa.
+        </p>
+        <p>
 
-            2. CONFORMIDAD. Los propietarios prestan expresa conformidad y quedan obligados al cumplimiento ya sea la primera transferencia, o las sucesivas, por cualquier causa o título, deberá constar en forma necesaria y obligatoria: 1°) Que el titulo se encuentra integrado además de la fracción de uso exclusivo, por la parte indivisa de los espacios comunes. 2°) Certificación de Libre Deuda de expensas expedida por la ADMINISTRACIÓN. 3°) Que el/los adquirientes presenten expresa conformidad al presente reglamento, a las resoluciones asamblearias y resoluciones de administración vigentes, todas las cuales deberán declarar conocer. 
+          1. TÍTULO DE DOMINIO. El dominio de cada fracción está integrado por 1) El terreno o fracción adjudicada de propiedad exclusiva; 2) El porcentaje de condominio de indivisión forzosa sobre los espacios afectados a accesos y servicios comunes, de conformidad con el plano de mensura. Los dos elementos antes enunciados forman una unidad indivisible e inescindible, lo que queda debidamente establecido en las escrituras de adjudicación respectivas. CONDOMINIO DE INDIVISIÓN FORZOSA. Las calles, accesos y espacios comunes a las respectivas fracciones quedan afectados a un condominio de indivisión forzosa entre los titulares de las fracciones de propiedad exclusiva, correspondiéndole al titular de cada fracción una porción indivisa de dicho condominio, en el porcentaje que establece el plano de fraccionamiento ya citado. Los servicios serán prestados en su totalidad por cuenta y cargo de los propietarios de las fracciones, quienes a su vez son copropietarios de las calles, siendo responsables del cuidado y mantenimiento de las mismas. La Municipalidad de la Ciudad de Rawson no asume la prestación de ningún servicio dentro del predio. Sobre las calles internas, espacios verdes y espacios comunes en general, queda constituido un condominio de indivisión forzosa.
 
-            3. NATURALEZA JURÍDICA. El presente reglamento se formula a fin reglamentar la convivencia dentro del consorcio. Asimismo, implica restricción y limitaciones expresas al derecho real de dominio de los propietarios de las unidades de propiedad exclusiva como así también del condominio de indivisión forzosa. Por ello las futuras trasferencias de dominio que los propietarios realicen llevarán implícitas estas limitaciones.
+        </p>
+        <p>
 
-            CAPITULO   SEGUNDO
-            DEL CONSORCIO
+            2. CONFORMIDAD. Los propietarios prestan expresa conformidad y quedan obligados al cumplimiento ya sea la primera transferencia, o las sucesivas, por cualquier causa o título, deberá constar en forma necesaria y obligatoria: 1°) Que el titulo se encuentra integrado además de la fracción de uso exclusivo, por la parte indivisa de los espacios comunes. 2°) Certificación de Libre Deuda de expensas expedida por la ADMINISTRACIÓN. 3°) Que el/los adquirientes presenten expresa conformidad al presente reglamento, a las resoluciones asamblearias y resoluciones de administración vigentes, todas las cuales deberán declarar conocer.
 
-            4. CONSTITUCIÓN DEL CONSORCIO DE PROPIETARIOS “CONSORCIO RESIDENCIAL EL BOSQUE”. Los propietarios CONSTITUYEN el "CONSORCIO DE PROPIETARIOS DEL COMPLEJO RESIDENCIAL EL BOSQUE”, que adelante se denominará “EL CONSORCIO” y que estará integrado por los propietarios de las fracciones de propiedad exclusiva, y de la/s fracción/es afectadas a condominio de indivisión forzosa, de conformidad con el "Plano de Mensura", el que se regirá por las disposiciones del presente.  El CONSORCIO tiene domicilio legal a todos los efectos judiciales y extrajudiciales en el lugar que establezca la Asamblea de Consorcistas.
+        </p>
+        <p> 
 
-            5. INTEGRACIÓN DEL CONSORCIO. Integran el Consorcio la totalidad de los propietarios “CONSORCIO RESIDENCIAL EL BOSQUE”, en lo sucesivo en forma indistinta el/los "Propietario/s" o el/los "Miembro/s" o el/los "Consorcista/s".
+          3. NATURALEZA JURÍDICA. El presente reglamento se formula a fin reglamentar la convivencia dentro del consorcio. Asimismo, implica restricción y limitaciones expresas al derecho real de dominio de los propietarios de las unidades de propiedad exclusiva como así también del condominio de indivisión forzosa. Por ello las futuras trasferencias de dominio que los propietarios realicen llevarán implícitas estas limitaciones.
 
-            6. OBJETIVOS DEL CONSORCIO. Son objetivos del Consorcio. 1) Asegurar y mantener las características estrictamente residenciales del fraccionamiento, a través del cumplimiento del presente reglamento, cuidando, conservando y manteniendo todos los espacios y bienes comunes. 2) Efectuar a través de la "Administración", y con el aporte de los "Miembros", obras de interés común, prestación de servicios en beneficio del conjunto, tales como: seguridad, limpieza, alumbrado de espacios comunes, embellecimiento, parquización y mantenimiento de espacios comunes, calles, y espacios verdes, provisión del servicio de agua potable domiciliaria y ejecución de todo tipo de obras que sean necesarias para el mejoramiento de la infraestructura básica del fraccionamiento. 3) Ejecución y aplicación del reglamento mediante el control y supervisión de las construcciones que se realicen en el fraccionamiento.
+        </p>
+        <h6>
+
+          CAPITULO   SEGUNDO
+          DEL CONSORCIO
+
+        </h6>
+        <p>
+
+          4. CONSTITUCIÓN DEL CONSORCIO DE PROPIETARIOS “CONSORCIO RESIDENCIAL EL BOSQUE”. Los propietarios CONSTITUYEN el "CONSORCIO DE PROPIETARIOS DEL COMPLEJO RESIDENCIAL EL BOSQUE”, que adelante se denominará “EL CONSORCIO” y que estará integrado por los propietarios de las fracciones de propiedad exclusiva, y de la/s fracción/es afectadas a condominio de indivisión forzosa, de conformidad con el "Plano de Mensura", el que se regirá por las disposiciones del presente.  El CONSORCIO tiene domicilio legal a todos los efectos judiciales y extrajudiciales en el lugar que establezca la Asamblea de Consorcistas.
+        </p>
+        <p>
+
+          5. INTEGRACIÓN DEL CONSORCIO. Integran el Consorcio la totalidad de los propietarios “CONSORCIO RESIDENCIAL EL BOSQUE”, en lo sucesivo en forma indistinta el/los "Propietario/s" o el/los "Miembro/s" o el/los "Consorcista/s".
+        </p>
+        <p>
+
+          6. OBJETIVOS DEL CONSORCIO. Son objetivos del Consorcio. 1) Asegurar y mantener las características estrictamente residenciales del fraccionamiento, a través del cumplimiento del presente reglamento, cuidando, conservando y manteniendo todos los espacios y bienes comunes. 2) Efectuar a través de la "Administración", y con el aporte de los "Miembros", obras de interés común, prestación de servicios en beneficio del conjunto, tales como: seguridad, limpieza, alumbrado de espacios comunes, embellecimiento, parquización y mantenimiento de espacios comunes, calles, y espacios verdes, provisión del servicio de agua potable domiciliaria y ejecución de todo tipo de obras que sean necesarias para el mejoramiento de la infraestructura básica del fraccionamiento. 3) Ejecución y aplicación del reglamento mediante el control y supervisión de las construcciones que se realicen en el fraccionamiento.
+
+          </p>
+          <p>
 
             7. ALCANCE. Los "Propietarios" de fracciones que integran el Consorcio, por cualquier causa o título, sus sucesores universales o singulares, quedan obligados al cumplimiento del Presente reglamento, el que forma parte integrante e inescindible de los respectivos títulos de dominio.  Los miembros son responsables personalmente por garantizar el cumplimiento del reglamento por parte de sus familiares, invitados, dependientes, empleados y/o cualquier otra persona a la que autoricen a ingresar y/o permanecer en el ejido de la urbanización. La "Administración" podrá prohibir el ingreso de los invitados, dependientes y/o empleados de los miembros que transgredan el reglamento. La titularidad de las fracciones implica la aceptación lisa y llana, sin condicionamiento de ninguna naturaleza del reglamento. Las disposiciones constructivas contenidas en el presente reglamento deben considerarse como limitaciones al dominio, complementarias de las establecidas por las leyes, ordenanzas, y cualquier otra norma que regule el aspecto edilicio y urbanístico.
 
+            </p>
+            <p>
+
             8. DOMICILIOS. Los miembros del consorcio deberán constituir por escrito, domicilio legal y especial, además de casilla de correo electrónico y número telefónico en donde serán válidas todas las notificaciones y citaciones atinentes a sus relaciones con el Consorcio. A falta de cumplimiento de esta obli¬gación, se tendrá como domicilio constituido el de la fracción o unidad integrante del Consorcio donde serán válidas todas las notificaciones que se realicen. 
+
+            </p>
+            <h6>
 
             TITULO 1
             ÓRGANOS DEL CONSORCIO.
 
+            </h6>
+            <p>
+
             9. ÓRGANOS. La Administración, El Consejo de Administración y La Asamblea de Propietarios, en adelante "la asamblea ", son los órganos del Consorcio con las facultades que se determinan en el presente reglamento. 
+
+            </p>
+            <h6>
             TITULO 2
             DE LA REPRESENTACIÓN Y ADMINISTRACIÓN:
+            </h6>
+            <p>
 
-            10. REPRESENTACIÓN Y ADMINISTRACIÓN: La representación legal y administración del Consorcio es una atribución de la administración. La Administración podrá estar constituida por una Comisión de Administración Interna; o por una persona humana y/o jurídica externa, a elección de la asamblea. 
+            10. REPRESENTACIÓN Y ADMINISTRACIÓN: La representación legal y administración del Consorcio es una atribución de la administración. La Administración podrá estar constituida por una Comisión de Administración Interna; o por una persona humana y/o jurídica externa, a elección de la asamblea.
+            </p>
+            <p> 
             10.1. COMISIÓN DE ADMINISTRACIÓN INTERNA: Tal Comisión estará conformada por un mínimo de tres (3) y un máximo de cinco (5) propietarios que no detenten deudas en el pago de expensas, siendo los miembros designados por LA ASAMBLEA a simple mayoría de la totalidad de los miembros del CONSORCIO con derecho a voto, por un periodo de un (1) año. Podrán ser reelegidos indefinidamente en periodos subsiguientes y pueden ser removidos en cualquier momento sin expresión de causa por LA ASAMBLEA a simple mayoría de miembros presentes.
+            </p>
+            <p>
             10.2 ADMINISTRACIÓN EXTERNA: La administración podrá estar a cargo de cualquier persona humana y/o jurídica, elegida con el voto de los dos tercios de la totalidad de los miembros del CONSORCIO con derecho a voto, a propuesta de cualquier propietario. Previo a su designación el o los responsables de la administración externa deberán acreditar su idoneidad y experiencia en la administración de consorcios ante la ASAMBLEA. En caso en que se opte por éste tipo de administración, se designará una Comisión de Vecinos que actuara como nexo entre la Administración y el consorcio. 
+            </p>
+            <p>
 
             11. REMUNERACIONES: Los integrantes de la Comisión de Administración Interna no percibirán por sus tareas remuneración alguna. En el caso de Administración Externa, la asamblea determinará la remuneración mensual del administrador. Esta remuneración se pagará en forma mensual y se adicionará como un gasto ordinario. 
+            </p>
+            <p>
 
             12. FUNCIONES: Son funciones de la "Administración": a. Representar legalmente al consorcio; b. Llevar adelante la administración general del consorcio; c. Velar por el cumplimiento del presente reglamento, las decisiones de la Asamblea, las leyes laborales, previsionales, el pago de los aportes previsionales, seguros de riesgos de trabajo del personal del consorcio; d. Recepción y canalización de las inquietudes y requerimientos de los propietarios; e. Controlar la ejecución de las obras del consorcio; 
-            estudio de las modificaciones al presente reglamento; f. Solicitar la convocatoria a Asambleas Generales Ordinarias y Extraordinarias cuando lo juzgue conveniente; g. Resolver sobre aplicación de multas y demás sanciones a los miembros por violación al presente reglamento, h. Resolver sobre la iniciación de acciones judiciales a los miembros por cobro de expensas, multas u obras y/o incumplimiento del reglamento; i. Designar Escribano para que protocolice las actas; j. Validar con su firma las actas de las Asambleas Ordinarias y Extraordinarias; k. Contratar o subcontratar las tareas relativas a la Administración del Consorcio;
+            estudio de las modificaciones al presente reglamento; f. Solicitar la convocatoria a Asambleas Generales Ordinarias y Extraordinarias cuando lo juzgue conveniente; g. Resolver sobre aplicación de multas y demás sanciones a los miembros por violación al presente reglamento, h. Resolver sobre la iniciación de acciones judiciales a los miembros por cobro de expensas, multas u obras y/o incumplimiento del reglamento; i. Designar Escribano para que protocolice las actas; j. Validar con su firma las actas de las Asambleas Ordinarias y Extraordinarias; k. Contratar o subcontratar las tareas relativas a la Administración del Consorcio.
+            </p>
+            <p>
 
             13. ATRIBUCIONES Y OBLIGACIONES DE LA ADMINISTRACIÓN: Compete a la Administración, resolver y ejecutar todas las acciones necesarias para cumplir sus funciones y llevar adelante una eficiente administración del "Consorcio", dictando para ello las resoluciones que a su criterio resulten necesarias. Estas resoluciones, en lo sucesivo "resoluciones de Administración" serán de cumplimiento obligatorio para todos los miembros del consorcio y para todas las personas que por cualquier motivo ingresen al predio del consorcio. Las resoluciones de Administración serán válidas desde su transcripción al libro de actas de Administración. En tal sentido se entenderá que son atribuciones y deberes del Administrador las que se detallan a continuación, revistiendo esta enumeración carácter meramente ejemplificativa: a). Asistir y presidir las Asambleas; b). Ejecutar las resoluciones de la "ASAMBLEA" y las Resoluciones de Administración, c) Efectuar las reparaciones y demás obras que requiera el correcto mantenimiento y cuidado del conjunto residencial; d). Extender en nombre del Consorcio las escrituras y demás instrumentos que requieran los actos válidamente sancionados por el mismo, y efectuar todos los trámites a los efectos de su inscripción, incluso los del presente instrumento y los de sus futuras modificaciones; e). Custodiar toda la documentación, títulos y libros correspondientes al consorcio, f). Presentar en cada Asamblea Ordinaria el balance y rendiciones de cuentas del ejercicio, que cerrará anualmente el día 31 de Diciembre de cada año. Esta fecha podrá variarse en Asamblea a propuesta del Administrador y sin necesidad de modificar el reglamento – g). Aprobar los proyectos de edificación, modificación y ampliación de viviendas a construir en cada una de las parcelas de uso exclusivo y en las áreas comunes. A los fines de esa tarea podrán requerir la asistencia profesional que corresponda; h). Efectuar pagos ordinarios y extraordinarios que hagan a la Administración del Consorcio; i). Fijar y recaudar los montos de las expensas ordinarias, las extraordinarias, y/o suplementos para fondos de reserva necesarios para la correcta administración del Consorcio; j). Custodiar el dinero y los demás bienes del Consorcio y administrar los fondos de reserva en la forma prevista en este reglamento; k). Llevar al día la nómina y domicilios de los propietarios; l). Expedir en sus casos los certificados de estado de deuda de expensas comunes y copias de las actas de las asambleas; m). Designar y despedir al personal al servicio del consorcio; n). Disponer la contratación de servicios o la adquisición de bienes necesarios para cumplir los objetivos de este reglamento y llevar adelante una eficiente administración; o). Efectuar las citaciones a Asambleas Ordinarias o Extraordinarias, y remitir el orden del día; p). Realizar consultas a los "Miembros" sobre temas en particular las que podrán tener carácter vinculante o no vinculante; q). Llevar al día y presentar cuando la b y/o el Consejo de Propietarios lo requiera, las cuentas de Administración y demás documentación del Consorcio, permitiendo su examen a los miembros del Consorcio; r). Hacer rubricar los libros que exige la ley y los que este estatuto determina con el mismo recaudo; Representar activa y pasivamente al CONSORCIO, ante los particulares, las autoridades administrativas y judiciales de cualquier clase, competencia o fuero, pudiendo promover, contestar o transar las demandas en cuanto se refieran a las cosas o intereses comunes; otorgar poderes generales y/o especiales para actuar en juicios y/o en trámites administrativos. s). Nombrar representantes "ad-litem"; exigir y demandar el pago de las expensas comunes y cualquier otra contribución que los propietarios adeudaran al Consorcio; t). Disponer el corte de los servicios por falta de pago, y promover acciones judiciales contra los consorcistas por pago de expensas, y cualquier otra contribución que los propietarios adeudaran al Consorcio, y/o por incumplimiento o violación del reglamento; u). Realizar las siguientes operaciones bancadas, sin perjuicio de las restantes previstas en este reglamento: Abrir y cerrar cuentas corrientes y todo otro tipo de otras cuentas, depositar y girar sobre depósitos, girar en descubierto, endosar  cheques y pagarés,  cobrar y percibir, firmar aceptaciones,  renovar documentos,  depositar títulos, comprar y vender títulos, depositar y retirar valores y fondos, alquilar y acceder a cajas de seguridad, stop debít, solicitar y retirar chequeras, solicitar estados de cuenta, otorgar nuevos poderes, sustituir poderes; realizar transferencias sean estas intercuentas, al exterior, o de cualquier otro tipo; efectuar pagos  de haberes, cesión de valores, descuento de documentos, suscribir contratos, extinguir obligaciones,  comprometer en  árbitros,  liquidar divisas,  cerrar tipo de cambio,  comprar y vender moneda extranjera, efectuar imposiciones a plazo fijo, etc.
+            </p>
+            <h6>
 
             TITULO 3
             DEL CONSEJO DE ADMINISTRACIÓN
+            </h6>
+            <p>
 
-            14.  COMPOSICIÓN: El Consejo de Administración estará Integrado por tres miembros, uno (1) en carácter de Presidente y dos (2) vocales, que serán propietarios que no detenten deudas en el pago de expensas, ni sean miembros de la administración interna. Los miembros serán designados por LA ASAMBLEA a simple mayoría de la totalidad de los miembros del CONSORCIO con derecho a voto, por un periodo de un (1) año. Podrán ser reelegidos indefinidamente en periodos subsiguientes y pueden ser removidos en cualquier momento sin expresión de causa por LA ASAMBLEA a simple mayoría de miembros presentes
+            14.  COMPOSICIÓN: El Consejo de Administración estará Integrado por tres miembros, uno (1) en carácter de Presidente y dos (2) vocales, que serán propietarios que no detenten deudas en el pago de expensas, ni sean miembros de la administración interna. Los miembros serán designados por LA ASAMBLEA a simple mayoría de la totalidad de los miembros del CONSORCIO con derecho a voto, por un periodo de un (1) año. Podrán ser reelegidos indefinidamente en periodos subsiguientes y pueden ser removidos en cualquier momento sin expresión de causa por LA ASAMBLEA a simple mayoría de miembros presentes.
+            </p>
+            <p>
 
             15. FUNCIONES: Son funciones del Consejo de Administración: a) Colaborar con la Administración, aconsejando a la misma para atender propuestas, inquietudes o sugerencias con el fin de mejorar u optimizar el uso de los recursos y el estado general del inmueble y sus servicios; b) Proponer soluciones a problemas del Consorcio; c) Servir de nexo entre propietarios y administración; d) Orientar a la administración sobre las necesidades y requerimientos y/o deseos y las posibilidades de los propietarios; e) Convocar a Asamblea por acefalia de la Administración del Consorcio o ante la negativa infundada de esta; f) Podrán controlar y revisar, comprobantes de ingresos y egresos, presupuestos e informes técnicos, desenvolvimiento del personal de seguridad y portería. El consejo de propietarios no sustituye al administrador, ni tiene a cargo el cumplimiento de las obligaciones del mismo. Carece de personería para actuar ante terceros, empresas u organismos del Estado, Poder Judicial, proveedores, gremios, entidades intermedias, servicios públicos, personal. Carece de facultades ejecutivas, ya que estas son propias e indelegables de la Administración, por lo tanto, no debe ni puede respecto al Consorcio: a) Celebrar ni rescindir contratos; b) Manejar fondos y c) Cobrar expensas. 
+            </p>
+            <p>
 
             16. REMUNERACIONES: Los integrantes del Consejo de Administración no percibirán por sus tareas remuneración alguna.
+            </p>
+            <h6>
             
             TITULO 4
             DE LA ASAMBLEA DE CONSORCISTAS:
+            </h6>
+            <p>
 
             17. COMPETENCIA: La asamblea tiene competencia exclusiva para considerar los asuntos que se detallan a continuación: ASAMBLEAS ORDINARIAS: Se realizarán una vez por año dentro de los ciento veinte (120) días corridos de finalizado el ejercicio económico; será de su competencia resolver los siguientes asuntos; a. Consideración del Balance e Inventario; b. Considerar la gestión de la Administración  y fijar sus retribuciones; c. Designación de la Administración interna o externa cuando corresponda. ASAMBLEAS EXTRAORDINARIAS; Se podrán realizar en cualquier momento, y será de su competencia todo tema que no le corresponda a la Asamblea Ordinaria.
+            </p>
+            <p>
 
             18. LUGAR DE REUNIONES: Las Asambleas se realizarán en el domicilio que se indique en la citación.
+            </p>
+            <p>
 
             19. CONVOCATORIAS: La Asamblea Ordinaria y Extraordinarias serán convocadas por la Administración, en los casos establecidos en el presente reglamento o cuando la Administración lo Juzgue conveniente. La "Administración" deberá también convocar a la Asamblea que corresponda cuando lo requiera un número de miembros que representen el cuarenta por ciento (40%) de los votos. Forma: Las convocatorias se notificarán por nota, remitida al domicilio de cada miembro o por los medios electrónicos que acrediten que la notificación de la convocatoria ha sido recibida. La comunicación especificará lugar, fecha, hora, naturaleza de la Asamblea, y se adjuntará el Orden del día. Se remitirá por lo menos con diez días hábiles de anticipación a la fecha de la Asamblea.
+            </p>
+            <p>
 
             20. ORDEN DEL DÍA: Orden del Día es el plan de los asuntos a tratar en la Asamblea, sintéticamente establecido. En la Asamblea se podrá, en el transcurso de sus sesiones, incluir en el temario otras proposiciones no prefijadas en la convocatoria, siempre que la correspondiente moción sea aprobada por simple mayoría de los miembros presentes. 
+            </p>
+            <p>
 
-            21. VOTOS: A todos los efectos el voto será numérico, entendiéndose por voto numérico, el de los propietarios presentes en la sesión, computándose sólo un voto por fracción, conforme plano de mensura, multiplicándose por el número de fracciones que tenga cada propietario. Sólo serán computables los votos de los propietarios que no detenten deudas en concepto de expensas al momento de la votación. Los propietarios miembros de la Comisión de Administración Interna, en caso de existir, conservan su derecho a votar.   
+            21. VOTOS: A todos los efectos el voto será numérico, entendiéndose por voto numérico, el de los propietarios presentes en la sesión, computándose sólo un voto por fracción, conforme plano de mensura, multiplicándose por el número de fracciones que tenga cada propietario. Sólo serán computables los votos de los propietarios que no detenten deudas en concepto de expensas al momento de la votación. Los propietarios miembros de la Comisión de Administración Interna, en caso de existir, conservan su derecho a votar.
+            </p>
+            <p>   
 
             22. CONDOMINIO-UNIFICACIÓN DE REPRESENTACIÓN: En caso de condominio sobre una misma fracción los propietarios deberán unificar la representación y notificar por escrito a la "Administración" el nombre de la persona que asistirá en su representación, con una antelación a la asamblea de tres días. El incumplimiento de esta obligación acarreará la imposibilidad de votar en la asamblea.
+            </p>
+            <p>
 
-            23. MAYORÍAS: A los efectos de este Estatuto, entiéndase por: a) MAYORÍA: La suma de los votos numéricos de los asambleístas que arrojan más del cincuenta  por ciento del total  de los presentes; b) MAYORÍA DE DOS TERCIOS: La suma de los votos numéricos de los asambleístas que arroja por lo menos el sesenta y seis coma sesenta y siete por ciento del total de votos posibles; c) UNANIMIDAD: La suma que arroja el ciento por ciento de los votos posibles, o el consentimiento de todos los consorcistas expresado por escrito fuera de la Asamblea. 
+            23. MAYORÍAS: A los efectos de este Estatuto, entiéndase por: a) MAYORÍA: La suma de los votos numéricos de los asambleístas que arrojan más del cincuenta  por ciento del total  de los presentes; b) MAYORÍA DE DOS TERCIOS: La suma de los votos numéricos de los asambleístas que arroja por lo menos el sesenta y seis coma sesenta y siete por ciento del total de votos posibles; c) UNANIMIDAD: La suma que arroja el ciento por ciento de los votos posibles, o el consentimiento de todos los consorcistas expresado por escrito fuera de la Asamblea.
+            </p>
+            <p> 
 
             24. REPRESENTACIÓN: Personas Humanas: Los propietarios podrán hacerse representar en las asambleas solamente por otros propietarios, a quienes deberán otorgar, por lo menos, una Carta Poder Simple. Una misma persona no podrá representar a más de cinco "Miembros". Personas Jurídicas: Cuando el propietario de una o más fracciones sea una persona jurídica, ella será representada por el representante legal o la persona que éste designe, quien podrá no revestir la calidad de propietario. 
+            </p>
+            <p>
 
             25. PRESENCIA DE EXTRAÑOS: La Asamblea se realizará sin la presencia de personas extrañas al Consorcio, salvo se trate de quienes asesoren a la "Administración".
+            </p>
+            <p>
 
             26. PRESIDENCIA: La asamblea será presidida por "LA ADMINISTRACIÓN" o uno de los miembros de la COMISIÓN DE ADMINISTRACIÓN y en caso de ausencia por la persona que designe la asamblea. Llegada la oportunidad señalada en la convocatoria para la celebración de la asamblea, y comprobada la presencia de consorcistas que integren el quórum requerido en cada caso, la presidencia abrirá la Asamblea.
+            </p>
+            <p>
 
-            27. REGLAS DE FORMA: a) USO DE LA PALABRA. Nadie podrá hacer uso de la palabra sin que antes le haya sido concedida por la presidencia. La palabra será concedida en el orden que hubiese sido pedida; b) LIMITACIÓN DE LA PALABRA. Cuando la Asamblea lo considere conveniente podrá limitar el tiempo en el uso de la palabra; c) LLAMADO AL ORDEN. La Presidencia llamará al orden al orador que se aparte del punto en discusión. Si la observación no fuera acatada, la Presidencia consultará a la Asamblea si el orador está o no dentro de la cuestión. La asamblea se expedirá por "simple mayoría". Si resolviera que el orador está fuera de la cuestión, le retirará la palabra de inmediato, d) MOCIONES: Las mociones quedarán aprobadas por "mayoría";
+            27. REGLAS DE FORMA: a) USO DE LA PALABRA. Nadie podrá hacer uso de la palabra sin que antes le haya sido concedida por la presidencia. La palabra será concedida en el orden que hubiese sido pedida; b) LIMITACIÓN DE LA PALABRA. Cuando la Asamblea lo considere conveniente podrá limitar el tiempo en el uso de la palabra; c) LLAMADO AL ORDEN. La Presidencia llamará al orden al orador que se aparte del punto en discusión. Si la observación no fuera acatada, la Presidencia consultará a la Asamblea si el orador está o no dentro de la cuestión. La asamblea se expedirá por "simple mayoría". Si resolviera que el orador está fuera de la cuestión, le retirará la palabra de inmediato, d) MOCIONES: Las mociones quedarán aprobadas por "mayoría".
+            </p>
+            <p>
 
             28. RESOLUCIONES - EFECTOS: Las resoluciones de las Asambleas tomadas válidamente de acuerdo este reglamento, son vinculantes y obligatorias para todos los Miembros del consorcio, aunque hubieran sido disidentes, o estado ausentes, y sus efectos, -se extienden "ipso iure" a sus sucesores. Los acuerdos quedan definitivamente firmes una vez transcurridos tres días hábiles de cierre de la Asamblea y que consten en actas debidamente suscriptas sin necesidad de ninguna otra aprobación posterior, y no podrán ser atacadas, sino por vía judicial, sin perjuicio de poder reverlas, resolviendo la reconsideración, según el artículo siguiente.
+            </p>
+            <p>
 
             29. RECONSIDERACIONES: La Asamblea no podrá volver sobre los asuntos ya resueltos en esa o anteriores reuniones si no vota 
             la reconsideración, la cual debe aprobarse con el voto de la "mayoría de dos tercios".
+            </p>
+            <p>
 
             30. ACTAS: Las actas de las asambleas serán labradas en el libro rubricado y firmadas por dos miembros asistentes que hubiesen sido elegidos por la Asamblea a ese efecto, dentro del tercer día hábil de celebrada la Asamblea.
+            </p>
+            <p>
 
             31. COMUNICACIONES: Las resoluciones de las asambleas se tendrán por notificadas válidamente a todos los miembros del Consorcio, hayan estado presentes o ausentes, o hubiesen sido disidentes o representados en la asamblea.
+            </p>
+            <h6>
 
 
             CAPITULO TERCERO:
             EXPENSAS COMUNES y FONDO DE RESERVA
+            </h6>
+            <p>
 
             32. ALCANCE DE LOS CONCEPTOS: Expensas Comunes: Entiéndase por "Expensas Comunes" todas las erogaciones ordinarias o extraordinarias a cargo de la comunidad de "Propietarios", que deban realizarse para la provisión de servicios, ejecución de obras y mantenimiento de las partes en condominio. Expensas Ordinarias: Entiéndase por expensas ordinarias a todos los gastos habituales y previsibles necesarios para el movimiento normal del consorcio, la prestación de servicios, tales como: Alumbrado público, impuestos comunes, la recolección de residuos, mantenimiento de espacios verdes comunes, servicio de seguridad privada, retribuciones del administrador, retribuciones del personal, seguros, mejoras indispensables y aquellos gastos necesarios para hacer posible la Administración, debiendo considerarse esta enumeración como meramente enunciativa y no limitativa. Expensas Extraordinarias: Entiéndase expensas extraordinarias a todo gasto que por su entidad y/o imprevisibilidad no puede ser afrontado con el pago de las expensas ordinarias. Pueden crearse en base a un imprevisto de carácter urgente o no; para reponer el Fondo de Reserva como consecuencia de haber tenido que recurrir a él para paliar un imprevisto de carácter urgente; o de acuerdo a una acción planificada.
+            </p>
+            <p>
 
             33. DETERMINACIÓN Y CUANTIFICACIÓN: Las expensas ordinarias serán determinadas por la "Administración" en base a la previsión de gastos ordinarios del mes siguiente. Las expensas extraordinarias también serán determinadas por la "Administración", mediante el dictado de una resolución de Administración debiendo en ella justificarse la necesidad de su creación y monto, así como también consignando el destino específico que se la dará a las sumas a recaudar en tal concepto.
+            </p>
+            <p>
 
             34. FONDO DE RESERVA. La "Administración" deberá establecer un Fondo de Reserva para atender erogaciones extraordinarias y urgentes. MONTO: El monto del fondo de reserva será fijado por la "Administración", el cual no podrá ser menor al diez por ciento (10%) ni superior al treinta y cinco por ciento (35%) del último presupuesto ordinario. FINANCIAMIENTO: Este fondo de reserva se financiará con un aporte mensual que fije la "Administración", el que se imputará como un gasto común y se cobrará en forma conjunta con las expensas ordinarias hasta tanto se integre la totalidad del fondo de reserva. USO: La utilización del fondo de reserva será dispuesta por la "Administración", debiendo dictar a tal fin una Resolución de Administración en la que deberá justificarse la necesidad y urgencia de su uso y su destino. Asimismo, deberá establecerse a la brevedad una expensa extraordinaria para restablecer las sumas utilizadas del fondo.
+            </p>
+            <p>
 
-            35. PORCENTAJES DE PARTICIPACIÓN EN EL PAGO DE EXPENSAS COMUNES: Las fracciones que integran la urbanización, participarán en los gastos, expensas comunes, y obras de urbanización en proporción a la superficie propia de sus unidades funcionales. Los porcentajes de participación sobre la superficie incidente establecidos en el plano de mensura no se tendrán en cuenta a los fines de determinar los porcentajes de los aportes. "La Administración" deberá establecer los porcentajes que corresponde a cada unidad funcional calculando el porcentaje de participación de cada unidad funcional sobre la sumatoria de las superficies propias de todas las unidades funcionales. En caso de unificación de fracciones, el terreno unificado tendrá un porcentaje igual a la suma de las fracciones que se unifican. Durante los dos primeros años de vigencia del presente reglamento, el desarrollador abonará el cincuenta por ciento (50%) de las expensas correspondientes a los terrenos que no haya vendido.  
+            35. PORCENTAJES DE PARTICIPACIÓN EN EL PAGO DE EXPENSAS COMUNES: Las fracciones que integran la urbanización, participarán en los gastos, expensas comunes, y obras de urbanización en proporción a la superficie propia de sus unidades funcionales. Los porcentajes de participación sobre la superficie incidente establecidos en el plano de mensura no se tendrán en cuenta a los fines de determinar los porcentajes de los aportes. "La Administración" deberá establecer los porcentajes que corresponde a cada unidad funcional calculando el porcentaje de participación de cada unidad funcional sobre la sumatoria de las superficies propias de todas las unidades funcionales. En caso de unificación de fracciones, el terreno unificado tendrá un porcentaje igual a la suma de las fracciones que se unifican. Durante los dos primeros años de vigencia del presente reglamento, el desarrollador abonará el cincuenta por ciento (50%) de las expensas correspondientes a los terrenos que no haya vendido. 
+            </p>
+            <p> 
 
             36. FORMA DE PAGO. Todos los gastos que se produzcan para atender las expensas comunes del CONSORCIO, y las obras de mantenimiento, conservación y mejoramiento del mismo, serán afrontados por los "Propietarios”. La "Administración" recaudará los importes correspondientes en forma mensual y por adelantado, entre el día primero y el cinco de cada mes. Expensas se pagarán en el domicilio de la "Administración" o en lugar que ésta indique y se calcularán según el porcentaje de participación que determine la administración de acuerdo a lo establecido en el apartado anterior. El importe de las expensas se determinará sobre la base del presupuesto proyectado por la "Administración". La falta de pago dentro del plazo establecido, hará incurrir al "Miembro" en mora de pleno derecho, por el solo transcurso del plazo, sin necesidad de interpelación o requerimiento alguno. Las sumas impagas devengarán el interés compensatorio equivalente al doscientos por ciento (200%) de la "Tasa Activa Promedio del Banco Nación para Operaciones de Descuentos Comerciales" hasta la fecha de efectivo pago.
 
