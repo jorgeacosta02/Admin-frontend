@@ -26,6 +26,15 @@ const ElBosqueComp = () => {
           >
             Reglamento
           </NavLink>
+          <a
+            className={styles.dwlResumeContainer}
+            href="https://github.com/jorgeacosta02" download="PlanillaElBosque.xlsx" target="_blank">
+            <h6
+            className={styles.dwlResume}
+            >
+              Descargar Planilla
+            </h6>
+          </a>
         </div>
       </div>
     </div>
