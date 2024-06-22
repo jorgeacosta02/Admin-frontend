@@ -28,7 +28,7 @@ const ElBosqueComp = () => {
           </NavLink>
           <a
             className={styles.dwlResumeContainer}
-            href="https://github.com/jorgeacosta02" download="PlanillaElBosque.xlsx" target="_blank">
+            href="https://github.com/jorgeacosta02/Admin-frontend/raw/main/src/assets/ElBosqueFiles/PlanillaElBosque.xlsx" download="PlanillaElBosque.xlsx" target="_blank">
             <h6
             className={styles.dwlResume}
             >
