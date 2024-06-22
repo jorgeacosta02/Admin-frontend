@@ -5,6 +5,12 @@ import { NavLink } from 'react-router-dom';
 const ElBosqueComp = () => {
   return (
     <div className={styles.mainContainer}>
+      <NavLink
+            to='/'
+            className={styles.back}
+      >
+        Volver
+      </NavLink>
       <h4 className={styles.mainTitle}>
         Complejo Residencial El Bosque
       </h4>
@@ -31,7 +37,7 @@ const ElBosqueComp = () => {
             href="https://github.com/jorgeacosta02/Admin-frontend/raw/main/src/assets/ElBosqueFiles/PlanillaElBosque.xlsx" download="PlanillaElBosque.xlsx" target="_blank">
             <h6
             className={styles.dwlResume}
-            >
+          >
               Descargar Planilla
             </h6>
           </a>

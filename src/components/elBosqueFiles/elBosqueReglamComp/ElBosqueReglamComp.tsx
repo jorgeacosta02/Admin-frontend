@@ -1,10 +1,17 @@
 import styles from './_ElBosqueReglamComp.module.scss';
+import { NavLink } from 'react-router-dom';
 
 const ElBosqueReglamComp = () => {
   return (
     <div
         className={styles.mainContainer}
     >
+      <NavLink
+            to='/elbosque'
+            className={styles.back}
+      >
+        Volver
+      </NavLink>
         <h5 className={styles.mainTitle}>
         REGLAMENTO DE COPROPIEDAD DEL CONJUNTO INMOBILIARIO 
         “CONSORCIO RESIDENCIAL El BOSQUE”
