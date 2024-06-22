@@ -11,7 +11,7 @@
         margin-bottom: 20px;
     }.dataContainer{
         width: 100%;
-        background-color: red;
+        // background-color: red;
         box-sizing: border-box;
         padding: 2vh 2vw;
         border-radius: 10px;
@@ -31,6 +31,9 @@
             text-align: center;
             transition: 200ms ease;
             @include g.create-flexbox(column, center);
+            @include g.display-large{
+                width: 200px;
+            }
             .clientLink{
                 box-sizing: border-box;
                 height: 100%;
@@ -44,6 +47,9 @@
                 width: 100%;
                 border-radius: 2px;
                 margin-bottom: 5px;
+                @include g.display-large{
+                    width: 50%;
+                }
             }
         }
         .clientContainer:hover{
