@@ -21,7 +21,7 @@ const ElBosqueComp = () => {
           </h6>
           <img 
             src={resumen} 
-            alt="resume"
+            alt="resumen"
             className={styles.resumen}
           />
         </div>
@@ -33,13 +33,10 @@ const ElBosqueComp = () => {
             Reglamento
           </NavLink>
           <a
-            className={styles.dwlResumeContainer}
-            href="https://github.com/jorgeacosta02/Admin-frontend/raw/main/src/assets/ElBosqueFiles/PlanillaElBosque.xlsx" download="PlanillaElBosque.xlsx" target="_blank">
-            <h6
-            className={styles.dwlResume}
+            className={styles.link}
+            href="https://github.com/jorgeacosta02/Admin-frontend/raw/main/src/assets/ElBosqueFiles/PlanillaElBosque.xlsx" download="PlanillaElBosque.xlsx" target="_blank"
           >
-              Descargar Planilla
-            </h6>
+            Descargar Planilla
           </a>
         </div>
       </div>
