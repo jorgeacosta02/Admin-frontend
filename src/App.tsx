@@ -1,7 +1,8 @@
 import { Routes, Route } from "react-router-dom"
 import HomePage from "./pages/homePage/HomePage"
 import ContactPage from "./pages/contactPage/ContactPage"
-import UserRoutesComp from "./components/protectedRoutes/userRoutesComp/UserRoutesComp"
+import AdminRoutesComp from "./components/protectedRoutes/adminRoutesComp/AdminRoutesComp"
+// import UserRoutesComp from "./components/protectedRoutes/userRoutesComp/UserRoutesComp"
 import IntranetPage from "./pages/intranetPage/IntranetPage"
 import ArticleUpFormPage from "./pages/articleUpFormPage/ArticleUpFormPage"
 import UserLoginPage from "./pages/userLoginPage/UserLoginPage"
@@ -18,7 +19,7 @@ function App() {
         <Route path='/contact' element={<ContactPage/>}/>
         <Route path='/login' element={<UserLoginPage/>}/>
         // Admin Routes
-        <Route element={<UserRoutesComp/>}>
+        <Route element={<AdminRoutesComp/>}>
           <Route path='/intranet' element={<IntranetPage/>}/>
           <Route path='/article-up-form' element={<ArticleUpFormPage/>}/>
         </Route>
