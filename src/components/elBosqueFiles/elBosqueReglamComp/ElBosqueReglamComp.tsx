@@ -1,20 +1,16 @@
+import BackButtonComp from '../../backButtonComp/BackButtonComp';
 import styles from './_ElBosqueReglamComp.module.scss';
-import { NavLink } from 'react-router-dom';
+
 
 const ElBosqueReglamComp = () => {
   return (
     <div
         className={styles.mainContainer}
     >
-      <NavLink
-            to='/elbosque'
-            className={styles.back}
-      >
-        Volver
-      </NavLink>
+      <BackButtonComp/>
         <h5 className={styles.mainTitle}>
         REGLAMENTO DE COPROPIEDAD DEL CONJUNTO INMOBILIARIO 
-        “CONSORCIO RESIDENCIAL El BOSQUE”
+        “CONSORCIO RESIDENCIAL El Bosque”
         </h5>
         <p>
           Por medio del presente, los propietarios del inmueble que se encuentra ubicado en calle Aguas Blancas 380 – entre calles Abraham Tapia y calle Vieja - del Departamento de Rawson, Provincia de San Juan, identificado con Nomenclatura Catastral de origen N° 04/12034/13 e inscripto ante el Registro de la Propiedad Inmobiliaria con matrícula 04-06695. Fecha 29/12/2000, en lo sucesivo denominado CONSORCIO Residencial "EL BOSQUE”-,  modifica el Reglamento pre-existente que regula los derechos y obligaciones en relación a la copropiedad de espacios comunes, los órganos de funcionamiento, limitaciones y restricciones a los derechos particulares, régimen disciplinario, obligación de contribuir con los gastos y cargas comunes,  y construcción del mencionado complejo residencial, todo ello de conformidad con la previsiones legales contenidas en el Código Civil y Comercial vigente.

@@ -1,3 +1,4 @@
+import BackButtonComp from '../../backButtonComp/BackButtonComp';
 import styles from './_ElBosqueGenInfoComp.module.scss';
 
 const ElBosqueGenInfoComp = () => {
@@ -5,9 +6,11 @@ const ElBosqueGenInfoComp = () => {
     <div 
         className={styles.mainContainer}
     >
-      <h3 className={styles.mainTitle}>
+        <BackButtonComp/>
+        <h3 className={styles.mainTitle}>
         Información general El Bosque
-      </h3>
+        </h3>
+
     </div>
   )
 }
