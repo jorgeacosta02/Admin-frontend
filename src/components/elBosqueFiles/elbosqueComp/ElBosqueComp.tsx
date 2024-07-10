@@ -9,29 +9,49 @@ const ElBosqueComp = () => {
             to='/'
             className={styles.back}
       >
-        Ir a Inicio
+        Volver a Inicio
       </NavLink>
       <h4 className={styles.mainTitle}>
         Complejo Residencial El Bosque
       </h4>
       <div className={styles.infoContainer}>
+        <h4 className={styles.title}>
+          Estado de deuda de expensas
+        </h4>
         <div className={styles.expensasContainer}>
-          <h6 className={styles.title}>
-            Estado de deuda de expensas
-          </h6>
           <img 
             src={resumen} 
             alt="resumen"
             className={styles.resumen}
           />
         </div>
-        <h3 className={styles.title}>
+        <h4 className={styles.title}>
           Secciones
-        </h3>
+        </h4>
         <div className={styles.linksContainer}>
           <ul
-            className={styles.links}
+            className={styles.ulLinks}
           >
+            <li
+              className={styles.liLink}
+            >
+              <NavLink
+                to='/elbosque-info-general'
+                className={styles.link}
+                >
+                Información general
+              </NavLink>
+            </li>
+            <li
+              className={styles.liLink}
+            >
+              <NavLink
+                to='/elbosque-consorcistas'
+                className={styles.link}
+                >
+                Consorcistas
+              </NavLink>
+            </li>
             <li
               className={styles.liLink}
             >
@@ -49,8 +69,28 @@ const ElBosqueComp = () => {
                 className={styles.link}
                 href="https://github.com/jorgeacosta02/Admin-frontend/raw/main/src/assets/ElBosqueFiles/PlanillaElBosque.xlsx" download="PlanillaElBosque.xlsx" target="_blank"
                 >
-                Descargar Planilla
+                Descargar Planilla de movimientos
               </a>
+            </li>
+            <li
+              className={styles.liLink}
+            >
+              <NavLink
+                to='/elbosque-gestiones'
+                className={styles.link}
+                >
+                Gestiones
+              </NavLink>
+            </li>
+            <li
+              className={styles.liLink}
+            >
+              <NavLink
+                to='/elbosque-actas'
+                className={styles.link}
+                >
+                Actas
+              </NavLink>
             </li>
           </ul>
         </div>
