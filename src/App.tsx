@@ -10,6 +10,7 @@ import ElBosquePage from "./pages/elBosquePage/ElBosquePage"
 import ElBosqueRoutesComp from "./components/protectedRoutes/elBosqueRoutesComp/ElBosqueRoutesComp"
 import ElBosqueReglamPage from "./pages/elBosqueReglamPage/ElBosqueReglamPage"
 import ElBosqueGenInfoPage from "./pages/elBosqueGenInfoPage/ElBosqueGenInfoPage"
+import ElBosqueConsorcistasPage from "./pages/elBosqueConsorcistasPage/ElBosqueConsorcistasPage"
 
 
 
@@ -30,6 +31,7 @@ function App() {
           <Route path='/elbosque' element={<ElBosquePage/>}/>
           <Route path='/elbosquereglam' element={<ElBosqueReglamPage/>}/>
           <Route path='/elbosque-info-general' element={<ElBosqueGenInfoPage/>}/>
+          <Route path='/elbosque-consorcistas' element={<ElBosqueConsorcistasPage/>}/>
         </Route>
       </Routes>
     </div>
