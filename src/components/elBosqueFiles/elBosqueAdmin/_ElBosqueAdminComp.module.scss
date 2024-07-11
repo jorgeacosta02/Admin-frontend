@@ -14,9 +14,12 @@
         padding: 5px 0;
     }
     .infoContainer{
+        .title{
+            padding: 20px 0 10px;
+        }
         .li{
             margin-bottom: 15px;
-            .title{
+            .liTitle{
                 text-align: left;
                 margin-bottom: 10px;
             }
