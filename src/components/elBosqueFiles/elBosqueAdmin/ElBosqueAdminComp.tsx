@@ -1,7 +1,7 @@
 import BackButtonComp from '../../backButtonComp/BackButtonComp';
-import styles from './_ElBosqueConsorcistasComp.module.scss';
+import styles from './_ElBosqueAdminComp.module.scss';
 
-const ElBosqueConsorcistasComp = () => {
+const ElBosqueAdminComp = () => {
 
 
     const consorcistas = [
@@ -605,4 +605,4 @@ const ElBosqueConsorcistasComp = () => {
   )
 }
 
-export default ElBosqueConsorcistasComp
+export default ElBosqueAdminComp
