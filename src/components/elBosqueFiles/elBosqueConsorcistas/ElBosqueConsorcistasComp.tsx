@@ -7,93 +7,129 @@ const ElBosqueConsorcistasComp = () => {
     const consorcistas = [
         {
             lote: 1,
-            nombre: 'Javier Hidalgo',
-            telefono: '2644518852'
+            info:[
+                {
+                    nombre: 'Hidalgo Javier',
+                    telefono: '2644518852',
+                    email: 'jahc15@hotmail.com',
+                },
+                {
+                    nombre: 'Romero Silvana',
+                    telefono: '2645650317',
+                    email: '',
+                },
+            ]
         },
         {
             lote: 2,
-            nombre: 'Javier Hidalgo',
-            telefono: '2644518852'
+            info:[
+                {
+                    nombre: 'Hidalgo Javier',
+                    telefono: '2644518852',
+                    email: 'jahc15@hotmail.com',
+                },
+                {
+                    nombre: 'Romero Silvana',
+                    telefono: '2645650317',
+                    email: '',
+                },
+            ]
         },
         {
             lote: 3,
-            nombre: 'Terzi',
-            telefono: ''
+            info:[
+                {
+                    nombre: 'Terzi',
+                    telefono: '',
+                    email: '',
+                },
+
+            ]
         },
         {
             lote: 4,
-            nombre: 'Illanes',
-            telefono: ''
+            info:[
+                {
+                    nombre: 'Illanes',
+                    telefono: '',
+                    email: '',
+                },
+            ]
         },
         {
             lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
+            info:[
+                {
+                    nombre: 'Quijano Juan Antonio',
+                    telefono: '2646703944',
+                    email: '',
+                },
+                {
+                    nombre: 'Vila Emilce',
+                    telefono: '2644442390',
+                    email: 'emilce_vila@hotmail.com',
+                },
+            ]
         },
         {
             lote: 6,
-            nombre: 'Mariela Bazanelli',
-            telefono: '2644605620'
+            info:[
+                {
+                    nombre: 'Bazanelli Mariela',
+                    telefono: '2644605620',
+                    email: 'bazanm494@gmail.com',
+                },
+            ]
         },
         {
             lote: 7,
-            nombre: 'Tomás Alvarez',
-            telefono: '2646615824'
+            info:[
+                {
+                    nombre: 'Alvarez Tomás',
+                    telefono: '2646615824',
+                    email: '',
+                },
+            ]
         },
         {
             lote: 8,
-            nombre: 'Roberto Suarez',
-            telefono: '2644523984'
+            info:[
+                {
+                    nombre: 'Suárez Roberto',
+                    telefono: '2644523984',
+                    email: '',
+                },
+                {
+                    nombre: 'Duman',
+                    telefono: '',
+                    email: '',
+                },
+            ]
         },
         {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
+            lote: 9,
+            info:[
+                {
+                    nombre: 'Mira Mariana',
+                    telefono: '2644149513',
+                    email: '',
+                },
+                {
+                    nombre: 'García',
+                    telefono: '',
+                    email: '',
+                },
+            ]
         },
         {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
-        },
-        {
-            lote: 5,
-            nombre: 'Juan Antonio Quijano',
-            telefono: '2646703944'
+            lote: 10,
+            info:[
+                {
+                    nombre: 'Echegaray Rodrigo',
+                    telefono: '2644544550',
+                    email: '',
+                },
+            ]
         },
     ]
 
@@ -109,16 +145,32 @@ const ElBosqueConsorcistasComp = () => {
             <ul>
                 {consorcistas.map(cons => {
                     return (
-                        <li className={styles.li}>
+                        <li 
+                            key={cons.lote} 
+                            className={styles.li}
+                        >
                             <h4 className={styles.title}>
-                                Lote: {cons.lote}:
+                                Lote {cons.lote}:
                             </h4>
-                            <p className={styles.text}>
-                                {cons.nombre}
-                            </p>
-                            <p className={styles.text}>
-                                {cons.telefono}
-                            </p>
+
+
+                        {cons.info?.map(user => {
+                            return (
+                                <div
+                                    className={styles.liUser}
+                                >
+                                    <p className={styles.text}>
+                                        Nombre: {user.nombre}
+                                    </p>
+                                    <p className={styles.text}>
+                                        Teléfono: {user.telefono}
+                                    </p>
+                                    <p className={styles.text}>
+                                        Email: {user.email}
+                                    </p>
+                                </div>
+                            )
+                        })}
                         </li>
                     )
                 })}

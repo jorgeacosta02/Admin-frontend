@@ -90,6 +90,11 @@ const ElBosqueGenInfoComp = () => {
                     <li>
                         <p className={styles.text}>
                             <span className={styles.textBold}>Lunes a viernes de 8:00hs a 16:00hs</span>
+                         </p>
+                    </li>
+                    <li>
+                        <p className={styles.text}>
+                            <span className={styles.textBold}>Días feriados nacionales y provinciales no trabaja el personal de mantenimiento ni se abre portón de servicio.</span>
                         </p>
                     </li>
                 </ul>
