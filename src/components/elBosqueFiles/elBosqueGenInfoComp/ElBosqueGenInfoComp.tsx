@@ -33,17 +33,17 @@ const ElBosqueGenInfoComp = () => {
                 <ul>
                     <li>
                         <p className={styles.text}>
-                            <span className={styles.textBold}>Jorge Daniel Vargas</span> Teléfono Particular 264111111
+                            <span className={styles.textBold}>Jorge Daniel Vargas - </span> Teléfono Particular 2645 88-4315
                         </p>
                     </li>
                     <li>
                         <p className={styles.text}>
-                            <span className={styles.textBold}>Lucas</span> Teléfono Particular 264111111
+                            <span className={styles.textBold}>Lucas - </span> Teléfono Particular 2645 80-2688
                         </p>
                     </li>
                     <li>
                         <p className={styles.text}>
-                            <span className={styles.textBold}>Carlos Gaillez</span> Teléfono Particular 264111111
+                            <span className={styles.textBold}>Carlos Gaillez - </span> Teléfono Particular 264111111
                         </p>
                     </li>
                 </ul>
