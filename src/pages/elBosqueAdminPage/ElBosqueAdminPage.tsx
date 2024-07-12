@@ -1,4 +1,4 @@
-import ElBosqueAdminComp from "../../components/elBosqueFiles/elBosqueAdmin/ElBosqueAdminComp"
+import ElBosqueAdminComp from "../../components/elBosqueFiles/elBosqueAdminComp/ElBosqueAdminComp"
 import FooterComp from "../../components/footerComp/FooterComp"
 
 

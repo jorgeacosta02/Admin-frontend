@@ -42,19 +42,19 @@ const ElBosqueAdminComp = () => {
             detalle: 'Realicé reclamo presencial en Municipalidad de Rawson, n° 5288 en sección alumnrado púbilic, para solicitar reemplazo de luminarias fuera de funcionamiento en calle Aguas Blancas.',
         },
         {
-            fecha: '10-60-2024',
+            fecha: '10-06-2024',
             tema: 'Cámaras de seguridad',
             detalle: 'Se colocó cableado y se dejaron funcionando las 4 cámaras de seguridad, entrada y salida principal, interior de garita y portón de servicio.',
-        },
-        {
-            fecha: '05-06-2024',
-            tema: 'Compra de herramientas',
-            detalle: 'Se comprpó y entregó a personal de mantenimiento, rastrillo metálico para limpiza de verdes.',
         },
         {
             fecha: '07-06-2024',
             tema: 'Limpieza de frente',
             detalle: 'Se completó la limpieza de verdes del frente hacia calle Aguas Blancas.',
+        },
+        {
+            fecha: '05-06-2024',
+            tema: 'Compra de herramientas',
+            detalle: 'Se comprpó y entregó a personal de mantenimiento, rastrillo metálico para limpiza de verdes.',
         },
         {
             fecha: '27-05-2024',
