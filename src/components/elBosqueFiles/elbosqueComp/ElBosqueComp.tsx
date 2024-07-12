@@ -82,16 +82,6 @@ const ElBosqueComp = () => {
                 Administración
               </NavLink>
             </li>
-            <li
-              className={styles.liLink}
-            >
-              <NavLink
-                to='/elbosque-actas'
-                className={styles.link}
-                >
-                Actas
-              </NavLink>
-            </li>
           </ul>
         </div>
       </div>

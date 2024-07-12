@@ -8,12 +8,12 @@ const ElBosqueAdminComp = () => {
         
         {
             fecha: '10-07-2024',
-            tema: 'Naturgy',
+            tema: 'Naturgy, lectura de medidores',
             detalle: 'Presentación nota dirigida a la sección de Control de Medición, reforzando el trámite de atención al cliente del día 05-07-2024. Se imprimieron carteles para colocar en garita y en el portón de servicio con el número de teléfono de garita.',
         },
         {
             fecha: '05-07-2024',
-            tema: 'Naturgy',
+            tema: 'Naturgy, lectura de medidores',
             detalle: 'Presentación del caso en atención al cliente de Naturgy, dejando solicitud de prórroga de suspensión y proporcionando el número telefónico de tarita para solicitar apertura.',
         },
         {
@@ -23,7 +23,7 @@ const ElBosqueAdminComp = () => {
         },
         {
             fecha: '04-07-2024',
-            tema: 'Naturgy',
+            tema: 'Naturgy, lectura de medidores',
             detalle: 'Comunicación telefónica en la cual me informan que el trámite debe realizarse por atención al cliente para conocer el motivo de la imposibilidad de lectura.',
         },
         {
