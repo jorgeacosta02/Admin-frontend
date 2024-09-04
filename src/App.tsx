@@ -1,9 +1,9 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
+import ScrollToTop from "./components/scrollToTopComp/ScrollToTopComp";
 import HomePage from "./pages/homePage/HomePage";
 import ContactPage from "./pages/contactPage/ContactPage";
 import AdminRoutesComp from "./components/protectedRoutes/adminRoutesComp/AdminRoutesComp";
-// import UserRoutesComp from "./components/protectedRoutes/userRoutesComp/UserRoutesComp";
 import IntranetPage from "./pages/intranetPage/IntranetPage";
 import ArticleUpFormPage from "./pages/articleUpFormPage/ArticleUpFormPage";
 import UserLoginPage from "./pages/userLoginPage/UserLoginPage";
@@ -13,7 +13,6 @@ import ElBosqueReglamPage from "./pages/elBosqueReglamPage/ElBosqueReglamPage";
 import ElBosqueGenInfoPage from "./pages/elBosqueGenInfoPage/ElBosqueGenInfoPage";
 import ElBosqueConsorcistasPage from "./pages/elBosqueConsorcistasPage/ElBosqueConsorcistasPage";
 import ElBosqueAdminPage from "./pages/elBosqueAdminPage/ElBosqueAdminPage";
-import ScrollToTop from "./components/scrollToTopComp/ScrollToTopComp";
 
 const App: React.FC = () => {
   return (

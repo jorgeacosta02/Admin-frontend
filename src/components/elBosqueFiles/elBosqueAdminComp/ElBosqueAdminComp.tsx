@@ -83,7 +83,7 @@ const ElBosqueAdminComp = () => {
         </h3>
         <div className={styles.infoContainer}>
             <h4 className={styles.title}>
-                Personal afectado:
+                Administrador:
             </h4>
             <p className={styles.text}>
                 Nombre: Jorge Acosta
