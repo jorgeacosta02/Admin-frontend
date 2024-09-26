@@ -56,10 +56,10 @@ const ElBosqueComp = () => {
               className={styles.liLink}
             >
               <NavLink
-                to='/elbosquereglam'
+                to='/elbosque-reglam'
                 className={styles.link}
                 >
-                Reglamento
+                Reglamento de copropiedad
               </NavLink>
             </li>
             <li

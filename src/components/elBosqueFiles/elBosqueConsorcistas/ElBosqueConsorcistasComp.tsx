@@ -6,7 +6,7 @@ const ElBosqueConsorcistasComp = () => {
 
     const consorcistas = [
         {
-            lote: 1,
+            lote: '1 y 2',
             info:[
                 {
                     nombre: 'Hidalgo Javier',
@@ -20,21 +20,21 @@ const ElBosqueConsorcistasComp = () => {
                 },
             ]
         },
-        {
-            lote: 2,
-            info:[
-                {
-                    nombre: 'Hidalgo Javier',
-                    telefono: '2644518852',
-                    email: 'jahc15@hotmail.com',
-                },
-                {
-                    nombre: 'Romero Silvana',
-                    telefono: '2645650317',
-                    email: '',
-                },
-            ]
-        },
+        // {
+        //     lote: 2,
+        //     info:[
+        //         {
+        //             nombre: 'Hidalgo Javier',
+        //             telefono: '2644518852',
+        //             email: 'jahc15@hotmail.com',
+        //         },
+        //         {
+        //             nombre: 'Romero Silvana',
+        //             telefono: '2645650317',
+        //             email: '',
+        //         },
+        //     ]
+        // },
         {
             lote: 3,
             info:[
@@ -50,7 +50,7 @@ const ElBosqueConsorcistasComp = () => {
             lote: 4,
             info:[
                 {
-                    nombre: 'Illanes',
+                    nombre: 'Illanes, Juan',
                     telefono: '',
                     email: '',
                 },
@@ -192,7 +192,7 @@ const ElBosqueConsorcistasComp = () => {
             ]
         },
         {
-            lote: 16,
+            lote: '16 y 17',
             info:[
                 {
                     nombre: 'Acosta Celso',
@@ -206,21 +206,21 @@ const ElBosqueConsorcistasComp = () => {
                 },
             ]
         },
-        {
-            lote: 17,
-            info:[
-                {
-                    nombre: 'Acosta Celso',
-                    telefono: '2644367000',
-                    email: 'celsoacosta@exploservice.com',
-                },
-                {
-                    nombre: 'de León Lucía',
-                    telefono: '',
-                    email: '',
-                },
-            ]
-        },
+        // {
+        //     lote: 17,
+        //     info:[
+        //         {
+        //             nombre: 'Acosta Celso',
+        //             telefono: '2644367000',
+        //             email: 'celsoacosta@exploservice.com',
+        //         },
+        //         {
+        //             nombre: 'de León Lucía',
+        //             telefono: '',
+        //             email: '',
+        //         },
+        //     ]
+        // },
         {
             lote: 18,
             info:[

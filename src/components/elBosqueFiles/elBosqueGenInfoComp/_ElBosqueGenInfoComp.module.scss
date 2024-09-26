@@ -15,10 +15,13 @@
     }
     .infoContainer{
         .categoryContainer{
-            margin-bottom: 55px;
+            margin-bottom: 25px;
+            background-color: g.$main-light3-color;
+            padding: 2vh 4vw;
             .title{
                 text-align: left;
                 margin-bottom: 30px;
+                background-color: g.$main-light2-color;
             }
             .expensasContainer{
                 .resumen{

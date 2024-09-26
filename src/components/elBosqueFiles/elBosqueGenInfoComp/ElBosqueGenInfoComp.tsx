@@ -13,8 +13,11 @@ const ElBosqueGenInfoComp = () => {
         <div className={styles.infoContainer}>
         <div className={styles.categoryContainer}>
                 <h4 className={styles.title}>
-                    Teléfono de garita
+                    Datos de garita
                 </h4>
+                <h5 className={styles.title2}>
+                    Teléfono de garita
+                </h5>
                 <ul>
                     <li>
                         <p className={styles.text}>
@@ -41,11 +44,11 @@ const ElBosqueGenInfoComp = () => {
                             <span className={styles.textBold}>Lucas - </span> Teléfono Particular 2645 80-2688
                         </p>
                     </li>
-                    <li>
+                    {/* <li>
                         <p className={styles.text}>
                             <span className={styles.textBold}>Carlos Gaillez - </span> Teléfono Particular 264111111
                         </p>
-                    </li>
+                    </li> */}
                 </ul>
                 <h5 className={styles.title2}>
                     Cámaras de seguridad
@@ -84,7 +87,7 @@ const ElBosqueGenInfoComp = () => {
                     </li>
                 </ul>
                 <h5 className={styles.title2}>
-                    Horarios del portón de servicio
+                    Horarios de personal de mantenimiento
                 </h5>
                 <ul>
                     <li>

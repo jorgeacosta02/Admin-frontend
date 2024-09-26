@@ -31,7 +31,7 @@ const App: React.FC = () => {
           {/* El Bosque Routes */}
           <Route element={<ElBosqueRoutesComp />}>
             <Route path="/elbosque" element={<ElBosquePage />} />
-            <Route path="/elbosquereglam" element={<ElBosqueReglamPage />} />
+            <Route path="/elbosque-reglam" element={<ElBosqueReglamPage />} />
             <Route path="/elbosque-info-general" element={<ElBosqueGenInfoPage />} />
             <Route path="/elbosque-consorcistas" element={<ElBosqueConsorcistasPage />} />
             <Route path="/elbosque-admin" element={<ElBosqueAdminPage />} />
